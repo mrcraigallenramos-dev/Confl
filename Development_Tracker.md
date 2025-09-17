@@ -25,3 +25,11 @@ This document tracks the progress of character development for Phase 2: Characte
   - *Status: Completed for Luthen, Mobel, Corlex, and Salee. Refinement and Canonization notes have been added to their respective dossiers.*
 
 
+
+
+## Deeper Psychological Exploration (Phase 2, Part 2)
+
+- **Fears, Private Thoughts, Motivations, and Goals Explored:** Completed for Luthen, Mobel, Corlex, Jhace, and Salee.
+- **Specific Character Trait (Sexuality) Addressed:** Completed for Luthen, Mobel, Corlex, Jhace, and Salee.
+
+
