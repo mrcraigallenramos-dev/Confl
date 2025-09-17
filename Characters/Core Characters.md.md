@@ -1,6 +1,6 @@
 # Core Characters
 
-The central figures of *The Confluence Chronicles*.  
+The central figures of *The Confluence Chronicles*.
 These are the protagonists and antagonists who define the saga.
 
 ## Characters

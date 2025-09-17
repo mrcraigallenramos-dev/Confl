@@ -4,7 +4,7 @@
 tags: character/protagonist
 aliases: [The Cleaner, Avatar of Divine Order]
 principle: "[[Wholeness]]"
-faction: "Independent" 
+faction: "Independent"
 status: "Alive"
 ---
 

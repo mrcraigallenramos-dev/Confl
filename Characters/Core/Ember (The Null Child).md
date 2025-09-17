@@ -4,7 +4,7 @@
 tags: character/core
 aliases: [The Null Child]
 principle: "[[Null]]"
-faction: "Aligned with Jhace" 
+faction: "Aligned with Jhace"
 status: "Deceased"
 ---
 

@@ -132,18 +132,18 @@ TheConfluenceChronicles\_RevisedStoryBible-AMasterclassinStrategicStorytelling.m
                 *   **Kitewrights:** Outlaw duelists who “write with wire and wind,” creating shapes that air must obey; they escort people through interference zones.
                 *   **Timekeepers:** Clock-smiths and bell keepers who regulate beats; they punish those who break tempo.
             *   **Iconography & Rituals:** Pendulums, spirals, repeating motifs. Funerals involve call-and-response chants. Bell-Tether rituals tie strings to bells to ward off bad hums. Cadence cultists keep metronomes as tokens.
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
         ### Divine Masks & Follower Factions
-        
+
         This section details how each principle manifests as a god, the mortal mask it wears, and the factions that worship it. Each faction has its own rituals, slang and hierarchies. Understanding these groups is crucial for political intrigue and conflict.
-        
+
         #### Purity (Blemo) / Mobel
-        
+
         *   **Mortal Mask:** Mobel appears as a charismatic, clean-cut evangelist, building a cult of Sanitists. He preaches elimination of suffering by erasing consciousness itself. He offers “mercy” by removing memories and pain.
         *   **Factions & Practices:**
             *   **Sanitists / White-Gloves:** Devotees wear immaculate white gloves and practice ritual cleansing. They advocate erasing pain by erasing consciousness. Gatherings involve ablutions in sterilised rain and communal confession.
@@ -151,13 +151,13 @@ TheConfluenceChronicles\_RevisedStoryBible-AMasterclassinStrategicStorytelling.m
             *   **Collectors of Dust:** They hoard ash left by purges and snort it as sacrament; they believe inhaling ash binds them to Purity.
             *   **Mercy Kitchens:** Kitchens that serve flavourless gruel as discipline; taste is considered temptation.
         *   **Iconography & Rituals:** Bleached robes, white-rope dances tracing purge boundaries, confession by ablution (standing in sterilised rain to fade memories). Purity’s rituals revolve around denial of sensation and removal of identity.
-        
-        
-        
-        
-        
+
+
+
+
+
         #### Form (Xilcore) / Corlex
-        
+
         *   **Mortal Mask:** Corlex is a cold architect who believes perfect geometry can save the world. He leads the Crystalline Orthodoxy and punishes improvisation.
         *   **Factions & Practices:**
             *   **Crystalline Orthodoxy:** Architects and engineers who enforce geometric purity. They erect axiom stones that realign streets each dawn. Disciples memorise theorems; improvisation is punished.
@@ -165,13 +165,13 @@ TheConfluenceChronicles\_RevisedStoryBible-AMasterclassinStrategicStorytelling.m
             *   **Line Masons & Stoneseers:** Builders who lay axiom stones and maintain strict alignment; they practice the Rectifier’s Walk funeral ritual.
             *   **Cantor Retaliation Teams:** Strike teams responding when theorems are broken; feared by stallholders.
         *   **Iconography & Rituals:** Right angles, tessellated patterns, proofs carved into walls. Rectifiers carry straight rods as weapon and measuring device. Rituals include proof calligraphy, geometric funerals and Straight-death suicides (marching off cliffs).
-        
-        
-        
-        
-        
+
+
+
+
+
         #### Wholeness (Leesa) / Salee
-        
+
         *   **Mortal Mask:** Salee is a compassionate healer who creates a hive-mind cult. She preaches that peace is found in dissolving the self into the whole.
             *   **Unifieds:** A hive-mind cult where individuals speak in unison and share everything. They believe friction arises from individuality.
             *   **Glass Mothers & Choir Weavers:** Women who synchronise newborns’ b...3125 bytes truncated...

@@ -4,7 +4,7 @@
 tags: character/antagonist
 aliases: [The Counter-Spark, The Auditor]
 principle: "[[Form]]"
-faction: "Independent (manipulator)" 
+faction: "Independent (manipulator)"
 status: "Active (Cosmic Entity)"
 ---
 

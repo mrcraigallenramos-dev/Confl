@@ -16,7 +16,7 @@ This wound manifests as an almost pathological need to anticipate and mitigate a
 
 Luthen’s emotional arc is one of gradual, painful, yet ultimately redemptive integration. He begins as a figure defined by his rigid adherence to Cadence, viewing any deviation as a weakness. His initial journey is one of imposing his will, of bending the world to his rhythm. However, the narrative will force him to confront the limitations of absolute control. He will encounter situations where pure rhythm is insufficient, where the organic, unpredictable elements of life—love, sacrifice, genuine connection—offer solutions that his rigid logic cannot. His journey is not about abandoning Cadence, but about understanding its true, broader meaning: that true harmony is not the absence of chaos, but the integration of it, a complex counterpoint rather than a singular, unyielding beat.
 
-His internal change will be tested through a series of pivotal moments. Initially, these tests will involve the failure of his perfect systems, forcing him to acknowledge the inherent unpredictability of existence. He might face a crisis where his meticulously planned solutions crumble, and an unexpected, 
+His internal change will be tested through a series of pivotal moments. Initially, these tests will involve the failure of his perfect systems, forcing him to acknowledge the inherent unpredictability of existence. He might face a crisis where his meticulously planned solutions crumble, and an unexpected,
 
 
 

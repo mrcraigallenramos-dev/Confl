@@ -1,11 +1,13 @@
 id: 18e96714-953e-457e-a18a-c93585a9bb10
 name: Corlex
 category: characters
-description: "Corlex\n        \n        *   **Mortal Mask:** Corlex is a cold architect\
-  \ who believes perfect geometry can save the world."
+description: "Corlex
+
+*   **Mortal Mask:** Corlex is a cold architect  who believes perfect geometry can save the world."
 source:
   file: TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md
   section_heading: ''
   line_start: 4847
   line_end: 4897
   tag: uploaded_bibles
+

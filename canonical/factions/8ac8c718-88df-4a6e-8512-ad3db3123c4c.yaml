@@ -1,11 +1,13 @@
 id: 8ac8c718-88df-4a6e-8512-ad3db3123c4c
 name: Sanitists
 category: factions
-description: "Mobel\n        \n        *   **Mortal Mask:** Mobel appears as a charismatic,\
-  \ clean-cut evangelist, building a cult of Sanitists."
+description: "Mobel
+
+*   **Mortal Mask:** Mobel appears as a charismatic,  clean-cut evangelist, building a cult of Sanitists."
 source:
   file: TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md
   section_heading: ''
   line_start: 4847
   line_end: 4897
   tag: uploaded_bibles
+

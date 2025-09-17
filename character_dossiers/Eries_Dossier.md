@@ -1,7 +1,7 @@
 # Eries Dossier
 
-**Principle:** Decay (Seeri)  
-**Alias:** The Harbinger of Decay  
+**Principle:** Decay (Seeri)
+**Alias:** The Harbinger of Decay
 
 ## Biography
 - Once a cosmic force, Eries walked the mortal realms to sow the seeds of necessary endings.

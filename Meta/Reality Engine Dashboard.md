@@ -5,7 +5,7 @@ aliases: [Reality Engine, Narrative Dashboard]
 
 # ⚙️ Reality Engine Dashboard
 
-The **Reality Engine** is the *diegetic control system* of the Confluence Chronicles vault.  
+The **Reality Engine** is the *diegetic control system* of the Confluence Chronicles vault.
 It ensures all documents, novellas, and forensic breadcrumbs interconnect as though they were part of the same living machine.
 
 ---

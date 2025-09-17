@@ -21,5 +21,5 @@ The eight central figures of *The Confluence Chronicles*, each embodying a diffe
 ---
 
 ## Notes
-- The cast embodies **all four Principles** (Wholeness, Form, Decay, Dissonance) plus **Null** as an outlier.  
-- Their arcs interlock into a cycle of **betrayal, sacrifice, and found family**, with each character forcing Jhace to confront a different moral failure or temptation.  
+- The cast embodies **all four Principles** (Wholeness, Form, Decay, Dissonance) plus **Null** as an outlier.
+- Their arcs interlock into a cycle of **betrayal, sacrifice, and found family**, with each character forcing Jhace to confront a different moral failure or temptation.

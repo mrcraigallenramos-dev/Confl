@@ -5,7 +5,7 @@ aliases: [Factions of Aethelgard, Major Powers]
 
 # Factions Index
 
-The great powers, movements, and hidden orders of *The Confluence Chronicles*.  
+The great powers, movements, and hidden orders of *The Confluence Chronicles*.
 Each embodies a philosophy, a Principle, or a survival strategy in a fractured world.
 
 | Faction | Principle Alignment | Domain | Notes |
@@ -24,6 +24,6 @@ Each embodies a philosophy, a Principle, or a survival strategy in a fractured w
 ---
 
 ## Notes
-- Factions embody **competing philosophies** of how to live with (or against) resonance.  
-- Their conflicts drive the backdrop for the Core Cast’s arcs.  
-- Several factions (Ceiling Breakers, Wild Resonance, Found Family) exist more as **movements** than institutions.  
+- Factions embody **competing philosophies** of how to live with (or against) resonance.
+- Their conflicts drive the backdrop for the Core Cast’s arcs.
+- Several factions (Ceiling Breakers, Wild Resonance, Found Family) exist more as **movements** than institutions.

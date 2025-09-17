@@ -69,5 +69,5 @@ His internal change will be tested through a series of pivotal moments. He might
 
 ### Fears
 
-Mobel's most profound fear is **contamination**, both physical and moral. This fear is deeply rooted in his core wound, a past experience that left him feeling irrevocably 
+Mobel's most profound fear is **contamination**, both physical and moral. This fear is deeply rooted in his core wound, a past experience that left him feeling irrevocably
 

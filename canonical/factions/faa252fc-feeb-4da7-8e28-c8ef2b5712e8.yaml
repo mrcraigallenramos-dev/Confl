@@ -1,10 +1,12 @@
 id: faa252fc-feeb-4da7-8e28-c8ef2b5712e8
 name: White-Gloves
 category: factions
-description: "*   **Factions & Practices:**\n            *   **Sanitists / White-Gloves:**"
+description: "*   **Factions & Practices:**
+*   **Sanitists / White-Gloves:**"
 source:
   file: TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md
   section_heading: ''
   line_start: 4847
   line_end: 4897
   tag: uploaded_bibles
+

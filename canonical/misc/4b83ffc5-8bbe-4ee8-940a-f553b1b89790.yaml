@@ -1,11 +1,14 @@
 id: 4b83ffc5-8bbe-4ee8-940a-f553b1b89790
 name: Divine Masks
 category: misc
-description: "Cadence cultists keep metronomes as tokens.\n        \n        \n  \
-  \      \n        \n        \n        \n        ### Divine Masks & Follower Factions"
+description: "Cadence cultists keep metronomes as tokens.
+
+
+### Divine Masks & Follower Factions"
 source:
   file: TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md
   section_heading: ''
   line_start: 4847
   line_end: 4897
   tag: uploaded_bibles
+
