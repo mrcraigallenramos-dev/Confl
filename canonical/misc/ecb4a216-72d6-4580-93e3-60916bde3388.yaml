@@ -1,0 +1,11 @@
+id: ecb4a216-72d6-4580-93e3-60916bde3388
+name: Next
+category: misc
+description: Next, I will create a bash script to incorporate these beats into the
+  relevant chapter files and push updates to your GitHub repository.
+source:
+  file: TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md
+  section_heading: ''
+  line_start: 3549
+  line_end: 3577
+  tag: uploaded_bibles

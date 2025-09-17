@@ -1,0 +1,164 @@
+{
+  "summary": "Analyzed 10 potential characters.",
+  "prioritized_characters": [
+    {
+      "name": "Luthen",
+      "id": "f0fa6ac3-eff1-420c-8213-fab0766cb159",
+      "description_snippet": "**Cadence / Luthen:** Embodies the will for perfect rhythm and predictable flow.",
+      "underdeveloped_areas": [
+        "Identity",
+        "Wound",
+        "Journey",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 1,
+        "wound": 0,
+        "journey": 0,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Mobel",
+      "id": "1fb39ffc-7c60-4bcc-8282-f2b567c9c36d",
+      "description_snippet": "Mobel\n        \n        *   **Mortal Mask:** Mobel appears as a charismatic, clean-cut evangelist, building a cult of Sanitists.",
+      "underdeveloped_areas": [
+        "Identity",
+        "Wound",
+        "Journey",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 1,
+        "wound": 0,
+        "journey": 0,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Luthen",
+      "id": "c2914e86-876d-45f0-bff1-8129585f7f7f",
+      "description_snippet": "**Cadence / Luthen:** Embodies the will for perfect rhythm and predictable flow.",
+      "underdeveloped_areas": [
+        "Identity",
+        "Wound",
+        "Journey",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 1,
+        "wound": 0,
+        "journey": 0,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Mobel",
+      "id": "f4a22a1f-f793-4d43-a965-bbd311dfbbd9",
+      "description_snippet": "Mobel\n        \n        *   **Mortal Mask:** Mobel appears as a charismatic, clean-cut evangelist, building a cult of Sanitists.",
+      "underdeveloped_areas": [
+        "Identity",
+        "Wound",
+        "Journey",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 1,
+        "wound": 0,
+        "journey": 0,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Crystalline Orthodoxy:** Architects",
+      "id": "451a8cfc-4819-4522-b9aa-d9406a42b1df",
+      "description_snippet": "*   **Factions & Practices:**\n            *   **Crystalline Orthodoxy:** Architects and engineers who enforce geometric purity.",
+      "underdeveloped_areas": [
+        "Identity",
+        "Wound",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 1,
+        "wound": 0,
+        "journey": 1,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Corlex",
+      "id": "18e96714-953e-457e-a18a-c93585a9bb10",
+      "description_snippet": "Corlex\n        \n        *   **Mortal Mask:** Corlex is a cold architect who believes perfect geometry can save the world.",
+      "underdeveloped_areas": [
+        "Wound",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 2,
+        "wound": 0,
+        "journey": 1,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Salee",
+      "id": "30a53c18-f1b3-4774-8ace-d0440716baef",
+      "description_snippet": "Rituals include proof calligraphy, geometric funerals and Straight-death suicides (marching off cliffs).\n        \n        \n        \n        \n        \n...",
+      "underdeveloped_areas": [
+        "Wound",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 2,
+        "wound": 0,
+        "journey": 1,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Corlex",
+      "id": "c4be3e08-daaf-4a29-8c70-7f854ddf073c",
+      "description_snippet": "Corlex\n        \n        *   **Mortal Mask:** Corlex is a cold architect who believes perfect geometry can save the world.",
+      "underdeveloped_areas": [
+        "Wound",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 2,
+        "wound": 0,
+        "journey": 1,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Salee",
+      "id": "3739e1a8-1c6d-4ee5-bcaa-d5fdf4df362a",
+      "description_snippet": "Rituals include proof calligraphy, geometric funerals and Straight-death suicides (marching off cliffs).\n        \n        \n        \n        \n        \n...",
+      "underdeveloped_areas": [
+        "Wound",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 2,
+        "wound": 0,
+        "journey": 1,
+        "pivotal_moments": 0
+      }
+    },
+    {
+      "name": "Jhace",
+      "id": "822b0c68-6d35-4b6f-9055-3e6f71850d7d",
+      "description_snippet": "Luthen, a ghost from Jhace\u2019s past, leads the Unseen Architects, believing rhythm can overcome chaos.",
+      "underdeveloped_areas": [
+        "Identity",
+        "Pivotal Moments"
+      ],
+      "scores": {
+        "identity": 1,
+        "wound": 1,
+        "journey": 1,
+        "pivotal_moments": 0
+      }
+    }
+  ]
+}

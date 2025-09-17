@@ -1,0 +1,16 @@
+id: 81c4158a-672d-4874-bbe1-fc780662af33
+name: Extract Novella Beats
+category: misc
+description: 'Handling file reading issue
+
+
+  Extract Novella Beats from the Story Bible content
+
+
+  Analyzing the story bible, I identified key factions, principles, and rituals.'
+source:
+  file: TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md
+  section_heading: ''
+  line_start: 1
+  line_end: 97
+  tag: uploaded_bibles

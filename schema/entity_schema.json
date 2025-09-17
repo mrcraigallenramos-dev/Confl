@@ -1,0 +1,79 @@
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Entity Schema",
+  "description": "Schema for a generic entity extracted from story bibles.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "category",
+    "description",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Unique identifier for the entity."
+    },
+    "name": {
+      "type": "string",
+      "description": "The name of the entity."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "characters",
+        "locations",
+        "factions",
+        "magic",
+        "events",
+        "scenes",
+        "misc"
+      ],
+      "description": "The category of the entity."
+    },
+    "description": {
+      "type": "string",
+      "description": "A description of the entity."
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "file",
+        "line_start",
+        "line_end",
+        "tag"
+      ],
+      "properties": {
+        "file": {
+          "type": "string",
+          "description": "The source file from which the entity was extracted."
+        },
+        "section_heading": {
+          "type": "string",
+          "description": "The section heading under which the entity was found (if applicable)."
+        },
+        "line_start": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "The starting line number in the source file."
+        },
+        "line_end": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "The ending line number in the source file."
+        },
+        "tag": {
+          "type": "string",
+          "description": "A tag indicating the source type (e.g., uploaded_bibles)."
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
+
+

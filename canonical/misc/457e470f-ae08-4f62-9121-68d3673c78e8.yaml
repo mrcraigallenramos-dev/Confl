@@ -1,0 +1,16 @@
+id: 457e470f-ae08-4f62-9121-68d3673c78e8
+name: Continuing
+category: misc
+description: '*   Do you want me to start a new task based on this link?
+
+
+  continue a task from that sessiion
+
+
+  Continuing the task from the provided session link.'
+source:
+  file: TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md
+  section_heading: ''
+  line_start: 1
+  line_end: 97
+  tag: uploaded_bibles
