@@ -1,2 +1,0 @@
-# Chapter7 TheCobaltSupernova
-
