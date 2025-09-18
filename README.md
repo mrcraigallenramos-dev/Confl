@@ -24,7 +24,7 @@ The gods of this universe walk among mortals using **anagrammed identities**:
 | **Xilcore** | Form | **Corlexi** | `18e96714-953e-457e-a18a-c93585a9bb10` |
 | **Blemo** | Purity | **Mobel** | `1fb39ffc-7c60-4bcc-8282-f2b567c9c36d` |
 | **Leesa** | Wholeness | **Salee** | `30a53c18-f1b3-4774-8ace-d0440716baef` |
-| **Seeri** | Decay | **Eries** | *[Generated UUID]* |
+| **Seeri** | Decay | **Eries** | 'bd4193a8-f327-4479-975a-ed195b564a6e' |
 
 Each mortal persona embodies their divine principle's traits while maintaining the deception of mortality.
 
