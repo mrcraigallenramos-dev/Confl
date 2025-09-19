@@ -1,3 +1,7 @@
+---
+tags: ['chapter_3_the_dust_throne_lysandras_betrayal', 'novella_3.5_the_dust_throne_lysandras_betrayal', 'saga_outline', 'series_3_masks_of_ferris___the_moral_inversion']
+---
+
 # Chapter 3: The Unfolding of The Dust Throne (Lysandra's Betrayal) (Part 3/15)
 
 **Novella:** The Dust Throne (Lysandra's Betrayal)

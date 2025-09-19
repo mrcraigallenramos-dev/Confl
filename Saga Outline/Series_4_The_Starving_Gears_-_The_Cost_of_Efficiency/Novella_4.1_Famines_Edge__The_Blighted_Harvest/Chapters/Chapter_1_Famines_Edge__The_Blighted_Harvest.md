@@ -1,3 +1,7 @@
+---
+tags: ['chapter_1_famines_edge__the_blighted_harvest', 'novella_4.1_famines_edge__the_blighted_harvest', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Chapter 1: The Unfolding of Famine's Edge / The Blighted Harvest (Part 1/15)
 
 **Novella:** Famine's Edge / The Blighted Harvest

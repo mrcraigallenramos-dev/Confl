@@ -1,3 +1,7 @@
+---
+tags: ['exploratory_prompts']
+---
+
 # Exploratory Prompts for Character Development
 
 This document contains a collection of targeted writing prompts designed to unearth the innermost thoughts, fears, and desires of key characters in the Confluence Chronicles. These prompts are based on the initial character depth analysis and are intended to guide the development of more profound and psychologically rich character profiles.
@@ -152,5 +156,8 @@ This document contains a collection of targeted writing prompts designed to unea
 2.  **A New Path to Order:** Jhace, having rejected Luthen's rigid rhythm, must find his own way to bring balance or purpose to the world. Write a scene where he discovers or articulates a new philosophy or method that is distinct from Luthen's, yet equally effective. This is a moment of self-discovery and growth.
 
 3.  **Confrontation with the Ghost:** In a climactic moment, Jhace finally confronts Luthen, not as an adversary, but as a peer. Write the scene of their encounter. What is the outcome? Does it lead to reconciliation, a deeper understanding, or a final, definitive break? This is the culmination of his emotional arc, where he defines himself independently of his past with Luthen.
+
+
+? This is the culmination of his emotional arc, where he defines himself independently of his past with Luthen.
 
 

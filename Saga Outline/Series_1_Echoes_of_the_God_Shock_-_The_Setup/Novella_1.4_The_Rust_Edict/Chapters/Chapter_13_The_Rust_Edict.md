@@ -1,3 +1,7 @@
+---
+tags: ['chapter_13_the_rust_edict', 'novella_1.4_the_rust_edict', 'saga_outline']
+---
+
 # Chapter 13: The Unfolding of The Rust Edict (Part 13/15)
 
 **Novella:** The Rust Edict

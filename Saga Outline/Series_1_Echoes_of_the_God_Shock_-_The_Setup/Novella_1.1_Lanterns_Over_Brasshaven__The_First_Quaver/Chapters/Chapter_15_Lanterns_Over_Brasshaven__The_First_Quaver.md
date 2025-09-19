@@ -1,3 +1,7 @@
+---
+tags: ['chapter_15_lanterns_over_brasshaven__the_first_quaver', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Chapter 15: The Unwritten Future
 
 **Novella:** Lanterns Over Brasshaven / The First Quaver

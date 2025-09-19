@@ -1,3 +1,7 @@
+---
+tags: ['chapter_2_the_unseen_hand', 'novella_2.4_the_unseen_hand', 'saga_outline']
+---
+
 # Chapter 2: The Unfolding of The Unseen Hand (Part 2/15)
 
 **Novella:** The Unseen Hand

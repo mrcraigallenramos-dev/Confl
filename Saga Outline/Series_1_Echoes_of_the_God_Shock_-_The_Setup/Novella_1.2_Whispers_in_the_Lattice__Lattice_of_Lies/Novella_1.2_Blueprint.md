@@ -1,3 +1,7 @@
+---
+tags: ['novella_1.2_blueprint', 'novella_1.2_whispers_in_the_lattice__lattice_of_lies', 'saga_outline']
+---
+
 # Whispers in the Lattice / Lattice of Lies
 
 **Series:** Echoes of the God Shock - The Setup

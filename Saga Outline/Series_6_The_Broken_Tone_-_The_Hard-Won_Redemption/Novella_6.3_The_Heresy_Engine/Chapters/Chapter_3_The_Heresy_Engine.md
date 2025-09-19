@@ -1,3 +1,7 @@
+---
+tags: ['chapter_3_the_heresy_engine', 'novella_6.3_the_heresy_engine', 'saga_outline', 'series_6_the_broken_tone___the_hard_won_redemption']
+---
+
 # Chapter 3: The Unfolding of The Heresy Engine (Part 3/15)
 
 **Novella:** The Heresy Engine

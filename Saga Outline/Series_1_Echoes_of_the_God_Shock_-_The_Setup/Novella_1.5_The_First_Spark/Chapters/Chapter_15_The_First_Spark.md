@@ -1,3 +1,7 @@
+---
+tags: ['chapter_15_the_first_spark', 'novella_1.5_the_first_spark', 'saga_outline']
+---
+
 # Chapter 15: The Unfolding of The First Spark (Part 15/15)
 
 **Novella:** The First Spark

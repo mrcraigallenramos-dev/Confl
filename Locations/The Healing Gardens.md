@@ -1,3 +1,7 @@
+---
+tags: ['locations', 'the_healing_gardens']
+---
+
 
 ---
 Entry: "The Healing Gardens"

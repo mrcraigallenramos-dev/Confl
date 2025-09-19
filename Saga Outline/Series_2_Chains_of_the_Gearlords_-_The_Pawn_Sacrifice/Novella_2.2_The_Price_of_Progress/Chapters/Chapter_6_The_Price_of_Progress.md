@@ -1,3 +1,7 @@
+---
+tags: ['chapter_6_the_price_of_progress', 'novella_2.2_the_price_of_progress', 'saga_outline']
+---
+
 # Chapter 6: The Unfolding of The Price of Progress (Part 6/15)
 
 **Novella:** The Price of Progress

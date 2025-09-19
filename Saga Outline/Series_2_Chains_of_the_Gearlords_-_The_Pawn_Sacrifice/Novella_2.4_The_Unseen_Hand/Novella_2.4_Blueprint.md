@@ -1,3 +1,7 @@
+---
+tags: ['novella_2.4_blueprint', 'novella_2.4_the_unseen_hand', 'saga_outline']
+---
+
 # The Unseen Hand
 
 **Series:** Chains of the Gearlords - The Pawn Sacrifice

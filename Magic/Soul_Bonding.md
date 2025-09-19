@@ -6,6 +6,9 @@ Tags: [Lore, Magic, Resonance, Bonding, Soul]
 Status: "Canonical"
 Related: [Soul_Resonance, Vitaflow, Tiffani Brightforge, Jhace]
 ---
+tags: ['magic', 'soul_bonding']
+---
+
 
 # Soul Bonding
 

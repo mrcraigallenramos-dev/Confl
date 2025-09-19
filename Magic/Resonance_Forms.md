@@ -6,6 +6,9 @@ Tags: [Lore, Magic, Resonance, Forms, Transformation, Power]
 Status: "Canonical"
 Related: [Fathombreak, Soul_Resonance, Vitaflow, Divine_Principles]
 ---
+tags: ['magic', 'resonance_forms']
+---
+
 
 # Resonance Forms
 
@@ -45,3 +48,4 @@ Resonance Forms are distinct transformations marking a resonant’s evolution.
 - **Power:** Reality-altering godhood. Permanent.
 - **Cost:** Loss of individuality.
 - **Social Impact:** Becomes a force of nature.
+ture.

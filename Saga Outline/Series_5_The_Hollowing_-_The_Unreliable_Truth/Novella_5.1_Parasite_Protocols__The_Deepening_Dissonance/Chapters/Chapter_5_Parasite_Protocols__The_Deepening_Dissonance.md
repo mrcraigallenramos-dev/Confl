@@ -1,3 +1,7 @@
+---
+tags: ['chapter_5_parasite_protocols__the_deepening_dissonance', 'novella_5.1_parasite_protocols__the_deepening_dissonance', 'saga_outline', 'series_5_the_hollowing___the_unreliable_truth']
+---
+
 # Chapter 5: The Unfolding of Parasite Protocols / The Deepening Dissonance (Part 5/15)
 
 **Novella:** Parasite Protocols / The Deepening Dissonance

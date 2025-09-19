@@ -1,3 +1,7 @@
+---
+tags: ['chapter_9_quinlan_fractures__the_levers_edge', 'novella_5.3_quinlan_fractures__the_levers_edge', 'saga_outline', 'series_5_the_hollowing___the_unreliable_truth']
+---
+
 # Chapter 9: The Unfolding of Quinlan Fractures / The Lever's Edge (Part 9/15)
 
 **Novella:** Quinlan Fractures / The Lever's Edge

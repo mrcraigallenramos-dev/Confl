@@ -1,3 +1,7 @@
+---
+tags: ['novella_1.5_blueprint', 'novella_1.5_the_first_spark', 'saga_outline']
+---
+
 # The First Spark
 
 **Series:** Echoes of the God Shock - The Setup

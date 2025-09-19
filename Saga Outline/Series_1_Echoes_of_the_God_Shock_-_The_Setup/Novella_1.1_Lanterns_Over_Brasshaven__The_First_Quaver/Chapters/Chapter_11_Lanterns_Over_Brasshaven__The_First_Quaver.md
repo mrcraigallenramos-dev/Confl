@@ -1,3 +1,7 @@
+---
+tags: ['chapter_11_lanterns_over_brasshaven__the_first_quaver', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Chapter 11: The Atlas"s Twisted Vision
 
 **Novella:** Lanterns Over Brasshaven / The First Quaver

@@ -1,3 +1,7 @@
+---
+tags: ['locations', 'the_shadow_marches']
+---
+
 
 ---
 Entry: "The Shadow Marches"

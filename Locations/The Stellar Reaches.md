@@ -1,3 +1,7 @@
+---
+tags: ['locations', 'the_stellar_reaches']
+---
+
 
 ---
 Entry: "The Stellar Reaches"

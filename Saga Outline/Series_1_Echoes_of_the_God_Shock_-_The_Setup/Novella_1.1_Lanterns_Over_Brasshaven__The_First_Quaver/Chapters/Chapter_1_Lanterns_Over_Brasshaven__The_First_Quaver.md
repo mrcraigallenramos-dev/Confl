@@ -1,3 +1,7 @@
+---
+tags: ['chapter_1_lanterns_over_brasshaven__the_first_quaver', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Chapter 1: The Fading Glow of Brasshaven
 
 **Novella:** Lanterns Over Brasshaven / The First Quaver

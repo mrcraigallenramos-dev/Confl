@@ -1,3 +1,7 @@
+---
+tags: ['confluence_chronicles', 'resonance_world_bible_v1']
+---
+
 **THE COSMIC ARGUMENT --- MASTER WORLD BIBLE (v1)**
 
 Scope: Exhaustive narrative, cosmology, magic, factions, craft
@@ -1302,6 +1306,46 @@ emphasized without erasure.
 accordingly; insurance guilds arise.
 
 • Name Night: families speak their names over ledgers to keep them
+bright.
+
+• Rite of 'Missing on Purpose': soldiers learn to spare without losing
+nerve; Vael teaches later.
+
+**CONFLICT MATRICES & IDEOLOGICAL DUELS**
+
+Every major fight pits convictions: Purity's mercy vs. autonomy; Form's
+safety vs. improvisation; Wholeness' compassion vs. personhood; Decay's
+renewal vs. stability. Use visible costs: tremors, scars, broken tools,
+ruined meals.
+
+**HOOKS & FUTURE MACRO-ARCS**
+
+• Sanctuary Ledger City: build a small Vault analogue that runs on
+witness and consent.
+
+• Corlex's Axiom Reef: offshore grid city; storm set piece; Cantor
+mutiny arc.
+
+• Mobel's Pilgrimage: cleanse five cities; showdown at a hospice that
+refuses.
+
+• Salee's Schism: her cadre splits between consent-collectivists and
+hive-tyrants.
+
+• Eries' Carnival: invites Folly to burn a palace; they choose to
+compost it instead.
+
+• Tiffani's Redesign: from Great Silence to 'Thousand Little
+Rooms'---trial of humane control.
+
+• Salt Leviathan Hunt: Decay + Form allies attempt to saddle it with a
+bridge.
+
+• Ember's School: teaching 'how to be a hole' to null kids; ethics
+curriculum.
+
+• Flawed Gear Festival: civic holiday celebrating useful imperfection.
+ families speak their names over ledgers to keep them
 bright.
 
 • Rite of 'Missing on Purpose': soldiers learn to spare without losing

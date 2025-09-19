@@ -1,3 +1,7 @@
+---
+tags: ['character_dossiers', 'jhace_dossier']
+---
+
 # Jhace: Expanded Psychological Profile
 
 ## Core Identity: The Shadow of a Ghost

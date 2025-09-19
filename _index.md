@@ -1,0 +1,1428 @@
+# Vault Index
+
+- [[./Betrayal Pillars/alara_betrayal.md]]
+  - Tags: meta-dossier
+- [[./Betrayal Pillars/calix_betrayal.md]]
+  - Tags: meta-dossier
+- [[./Betrayal Pillars/index_betrayal.md]]
+  - Tags: 
+- [[./Betrayal Pillars/lysandra_betrayal.md]]
+  - Tags: meta-dossier
+- [[./Betrayal Pillars/tiffani_betrayal.md]]
+  - Tags: saga/betrayal
+- [[./Betrayal Pillars/toren_betrayal.md]]
+  - Tags: saga/betrayal
+- [[./Characters/Background/Arbiter_Kael.md]]
+  - Tags: arbiter_kael, background, characters
+- [[./Characters/Background/Brogan.md]]
+  - Tags: background, brogan, characters
+- [[./Characters/Background/Cilla.md]]
+  - Tags: background, characters, cilla
+- [[./Characters/Background/Dorn.md]]
+  - Tags: background, characters, dorn
+- [[./Characters/Background/Orven.md]]
+  - Tags: background, characters, orven
+- [[./Characters/Background/Scribe_Malien.md]]
+  - Tags: background, characters, scribe_malien
+- [[./Characters/Background/Selen.md]]
+  - Tags: background, characters, selen
+- [[./Characters/Background/Veyra.md]]
+  - Tags: background, characters, veyra
+- [[./Characters/Core Characters.md.md]]
+  - Tags: characters, core_characters.md
+- [[./Characters/Core/Alara.md]]
+  - Tags: 
+- [[./Characters/Core/Brighlee.md]]
+  - Tags: 
+- [[./Characters/Core/Calix.md]]
+  - Tags: 
+- [[./Characters/Core/Core Cast Index.md]]
+  - Tags: index/characters
+- [[./Characters/Core/Ember (The Null Child).md]]
+  - Tags: 
+- [[./Characters/Core/Eries.md]]
+  - Tags: 
+- [[./Characters/Core/Jhace.md]]
+  - Tags: 
+- [[./Characters/Core/Lysandra Vane.md]]
+  - Tags: 
+- [[./Characters/Core/Tiffani.md]]
+  - Tags: 
+- [[./Characters/Core/Toren.md]]
+  - Tags: 
+- [[./Characters/Core/Vael.md]]
+  - Tags: 
+- [[./Characters/Secondary Characters.md.md]]
+  - Tags: characters, secondary_characters.md
+- [[./Characters/Secondary/Braxus_Hammersong.md]]
+  - Tags: character/secondary
+- [[./Characters/Secondary/Eira_Frostbound.md]]
+  - Tags: character/secondary
+- [[./Characters/Secondary/Idrik_Rust_Tarn.md]]
+  - Tags: character/secondary
+- [[./Characters/Secondary/Kellan_Echo_Irons.md]]
+  - Tags: character/secondary
+- [[./Characters/Secondary/Marael.md]]
+  - Tags: character/secondary
+- [[./Characters/Secondary/Sylara_Gloom.md]]
+  - Tags: character/secondary
+- [[./Development_Tracker.md]]
+  - Tags: development_tracker
+- [[./Factions/Healing Gardens.md]]
+  - Tags: faction
+- [[./Factions/Index.md]]
+  - Tags: index/factions
+- [[./Factions/Iron Republics.md]]
+  - Tags: faction
+- [[./Factions/Resonance Tribunal.md]]
+  - Tags: faction
+- [[./Factions/State Enforcers.md]]
+  - Tags: faction
+- [[./Factions/The Ceiling Breakers.md]]
+  - Tags: faction
+- [[./Factions/The Found Family.md]]
+  - Tags: faction
+- [[./Factions/The Null Orders.md]]
+  - Tags: faction
+- [[./Factions/The Vitaflow Merchants.md]]
+  - Tags: faction
+- [[./Factions/The Wild Resonance.md]]
+  - Tags: faction
+- [[./Factions/Twilight Courts.md]]
+  - Tags: faction
+- [[./Locations/Aethelgard.md]]
+  - Tags: 
+- [[./Locations/Aurelius Prime.md]]
+  - Tags: aurelius_prime, locations
+- [[./Locations/Brightforge Haven.md]]
+  - Tags: brightforge_haven, locations
+- [[./Locations/Entropy's Edge.md]]
+  - Tags: "entropys_edge", locations
+- [[./Locations/Gearwright's Throne.md]]
+  - Tags: "gearwrights_throne", locations
+- [[./Locations/Starfall Observatory.md]]
+  - Tags: locations, starfall_observatory
+- [[./Locations/The Golden Dominion.md]]
+  - Tags: locations, the_golden_dominion
+- [[./Locations/The Healing Gardens.md]]
+  - Tags: locations, the_healing_gardens
+- [[./Locations/The Iron Republics.md]]
+  - Tags: locations, the_iron_republics
+- [[./Locations/The Neutral Spire.md]]
+  - Tags: locations, the_neutral_spire
+- [[./Locations/The Shadow Marches.md]]
+  - Tags: locations, the_shadow_marches
+- [[./Locations/The Stellar Reaches.md]]
+  - Tags: locations, the_stellar_reaches
+- [[./Locations/The Twilight Courts.md]]
+  - Tags: locations, the_twilight_courts
+- [[./Locations/The Wild Resonance.md]]
+  - Tags: locations, the_wild_resonance
+- [[./Lore/Calix.md]]
+  - Tags: calix, lore
+- [[./Lore/Faction Embassies.md]]
+  - Tags: faction_embassies, lore
+- [[./Lore/Foundry Houses.md]]
+  - Tags: foundry_houses, lore
+- [[./Lore/Gravity Wells.md]]
+  - Tags: gravity_wells, lore
+- [[./Lore/Resonance Springs.md]]
+  - Tags: lore, resonance_springs
+- [[./Lore/Resonance Storms.md]]
+  - Tags: lore, resonance_storms
+- [[./Lore/Rot Zones.md]]
+  - Tags: lore, rot_zones
+- [[./Lore/Seed_Map.md]]
+  - Tags: lore, seed_map
+- [[./Lore/Stellar Reaches Nomads.md]]
+  - Tags: lore, stellar_reaches_nomads
+- [[./Lore/The Arbitration Chambers.md]]
+  - Tags: lore, the_arbitration_chambers
+- [[./Lore/The Cosmic Grove.md]]
+  - Tags: lore, the_cosmic_grove
+- [[./Lore/The Great Engines.md]]
+  - Tags: lore, the_great_engines
+- [[./Lore/The Great Infirmary.md]]
+  - Tags: lore, the_great_infirmary
+- [[./Lore/The Living Marsh.md]]
+  - Tags: lore, the_living_marsh
+- [[./Lore/The Memorial Gardens.md]]
+  - Tags: lore, the_memorial_gardens
+- [[./Lore/The Merchant's Quarter.md]]
+  - Tags: lore, "the_merchants_quarter"
+- [[./Lore/The Observatory Rings.md]]
+  - Tags: lore, the_observatory_rings
+- [[./Lore/The Shattered Spire.md]]
+  - Tags: lore, the_shattered_spire
+- [[./Lore/The Singing Stones.md]]
+  - Tags: lore, the_singing_stones
+- [[./Lore/The Treaty Halls.md]]
+  - Tags: lore, the_treaty_halls
+- [[./Lore/Tiffani_Auditor_Dossier.md]]
+  - Tags: lore, tiffani_auditor_dossier
+- [[./Lore/Transformation Grounds.md]]
+  - Tags: lore, transformation_grounds
+- [[./Lore/Vitaflow Merchants.md]]
+  - Tags: lore, vitaflow_merchants
+- [[./Lore/Vitaflow Mines.md]]
+  - Tags: lore, vitaflow_mines
+- [[./Lore/Void Sanctuaries.md]]
+  - Tags: lore, void_sanctuaries
+- [[./Lore/Wanderer's Way.md]]
+  - Tags: lore, "wanderers_way"
+- [[./Lore/Wild Resonance Nomads.md]]
+  - Tags: lore, wild_resonance_nomads
+- [[./Lore/Worker Colonies.md]]
+  - Tags: lore, worker_colonies
+- [[./Magic/Divine_Principles.md]]
+  - Tags: 
+- [[./Magic/Fathombreak.md]]
+  - Tags: 
+- [[./Magic/Index.md]]
+  - Tags: magic
+- [[./Magic/Resonance_Forms.md]]
+  - Tags: 
+- [[./Magic/Soul_Bonding.md]]
+  - Tags: 
+- [[./Magic/Soul_Resonance.md]]
+  - Tags: 
+- [[./Magic/Vitaflow.md]]
+  - Tags: 
+- [[./Meta/Auditor’s Ledger.md]]
+  - Tags: saga/ledger
+- [[./Meta/Forensic Breadcrumb Index.md]]
+  - Tags: meta, breadcrumbs, saga
+- [[./Meta/Reality Engine Dashboard.md]]
+  - Tags: meta, engine, dashboard
+- [[./Meta/Series Roadmap.md]]
+  - Tags: saga/roadmap
+- [[./README.md]]
+  - Tags: document
+- [[./Saga Outline/Novella_Beats/Cadence___Luthen/Chapters/Chapter_1_Cadence___Luthen.md]]
+  - Tags: cadence___luthen, chapter_1_cadence___luthen, saga_outline
+- [[./Saga Outline/Novella_Beats/Clear_Cadence/Chapters/Chapter_1_Clear_Cadence.md]]
+  - Tags: chapter_1_clear_cadence, clear_cadence, saga_outline
+- [[./Saga Outline/Novella_Beats/Decay__Seeri____Eries/Chapters/Chapter_1_Decay__Seeri____Eries.md]]
+  - Tags: chapter_1_decay__seeri____eries, decay__seeri____eries, saga_outline
+- [[./Saga Outline/Novella_Beats/Entropy_Orthodoxy/Chapters/Chapter_1_Entropy_Orthodoxy.md]]
+  - Tags: chapter_1_entropy_orthodoxy, entropy_orthodoxy, saga_outline
+- [[./Saga Outline/Novella_Beats/Form__Xilcore____Corlex/Chapters/Chapter_1_Form__Xilcore____Corlex.md]]
+  - Tags: chapter_1_form__xilcore____corlex, form__xilcore____corlex, saga_outline
+- [[./Saga Outline/Novella_Beats/Null-Faction/Chapters/Chapter_1_Null-Faction.md]]
+  - Tags: chapter_1_null_faction, null_faction, saga_outline
+- [[./Saga Outline/Novella_Beats/Purity__Blemo____Mobel/Chapters/Chapter_1_Purity__Blemo____Mobel.md]]
+  - Tags: chapter_1_purity__blemo____mobel, purity__blemo____mobel, saga_outline
+- [[./Saga Outline/Novella_Beats/Rot_Harmony/Chapters/Chapter_1_Rot_Harmony.md]]
+  - Tags: chapter_1_rot_harmony, rot_harmony, saga_outline
+- [[./Saga Outline/Novella_Beats/Silent_Unity/Chapters/Chapter_1_Silent_Unity.md]]
+  - Tags: chapter_1_silent_unity, saga_outline, silent_unity
+- [[./Saga Outline/Novella_Beats/Wholeness__Leesa____Salee/Chapters/Chapter_1_Wholeness__Leesa____Salee.md]]
+  - Tags: chapter_1_wholeness__leesa____salee, saga_outline, wholeness__leesa____salee
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_10_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_10_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_11_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_11_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_12_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_12_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_13_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_13_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_14_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_14_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_15_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_15_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_1_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_1_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_2_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_2_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_3_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_3_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_4_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_4_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_5_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_5_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_6_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_6_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_7_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_7_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_8_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_8_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Chapters/Chapter_9_Lanterns_Over_Brasshaven__The_First_Quaver.md]]
+  - Tags: chapter_9_lanterns_over_brasshaven__the_first_quaver, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.1_Lanterns_Over_Brasshaven__The_First_Quaver/Novella_1.1_Blueprint.md]]
+  - Tags: novella_1.1_blueprint, novella_1.1_lanterns_over_brasshaven__the_first_quaver, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_10_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_10_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_11_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_11_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_12_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_12_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_13_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_13_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_14_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_14_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_15_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_15_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_1_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_1_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_2_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_2_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_3_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_3_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_4_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_4_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_5_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_5_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_6_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_6_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_7_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_7_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_8_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_8_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Chapters/Chapter_9_Whispers_in_the_Lattice__Lattice_of_Lies.md]]
+  - Tags: chapter_9_whispers_in_the_lattice__lattice_of_lies, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.2_Whispers_in_the_Lattice__Lattice_of_Lies/Novella_1.2_Blueprint.md]]
+  - Tags: novella_1.2_blueprint, novella_1.2_whispers_in_the_lattice__lattice_of_lies, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_10_The_Gilded_Cage.md]]
+  - Tags: chapter_10_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_11_The_Gilded_Cage.md]]
+  - Tags: chapter_11_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_12_The_Gilded_Cage.md]]
+  - Tags: chapter_12_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_13_The_Gilded_Cage.md]]
+  - Tags: chapter_13_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_14_The_Gilded_Cage.md]]
+  - Tags: chapter_14_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_15_The_Gilded_Cage.md]]
+  - Tags: chapter_15_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_1_The_Gilded_Cage.md]]
+  - Tags: chapter_1_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_2_The_Gilded_Cage.md]]
+  - Tags: chapter_2_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_3_The_Gilded_Cage.md]]
+  - Tags: chapter_3_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_4_The_Gilded_Cage.md]]
+  - Tags: chapter_4_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_5_The_Gilded_Cage.md]]
+  - Tags: chapter_5_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_6_The_Gilded_Cage.md]]
+  - Tags: chapter_6_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_7_The_Gilded_Cage.md]]
+  - Tags: chapter_7_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_8_The_Gilded_Cage.md]]
+  - Tags: chapter_8_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Chapters/Chapter_9_The_Gilded_Cage.md]]
+  - Tags: chapter_9_the_gilded_cage, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.3_The_Gilded_Cage/Novella_1.3_Blueprint.md]]
+  - Tags: novella_1.3_blueprint, novella_1.3_the_gilded_cage, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_10_The_Rust_Edict.md]]
+  - Tags: chapter_10_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_11_The_Rust_Edict.md]]
+  - Tags: chapter_11_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_12_The_Rust_Edict.md]]
+  - Tags: chapter_12_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_13_The_Rust_Edict.md]]
+  - Tags: chapter_13_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_14_The_Rust_Edict.md]]
+  - Tags: chapter_14_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_15_The_Rust_Edict.md]]
+  - Tags: chapter_15_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_1_The_Rust_Edict.md]]
+  - Tags: chapter_1_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_2_The_Rust_Edict.md]]
+  - Tags: chapter_2_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_3_The_Rust_Edict.md]]
+  - Tags: chapter_3_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_4_The_Rust_Edict.md]]
+  - Tags: chapter_4_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_5_The_Rust_Edict.md]]
+  - Tags: chapter_5_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_6_The_Rust_Edict.md]]
+  - Tags: chapter_6_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_7_The_Rust_Edict.md]]
+  - Tags: chapter_7_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_8_The_Rust_Edict.md]]
+  - Tags: chapter_8_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Chapters/Chapter_9_The_Rust_Edict.md]]
+  - Tags: chapter_9_the_rust_edict, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.4_The_Rust_Edict/Novella_1.4_Blueprint.md]]
+  - Tags: novella_1.4_blueprint, novella_1.4_the_rust_edict, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_10_The_First_Spark.md]]
+  - Tags: chapter_10_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_11_The_First_Spark.md]]
+  - Tags: chapter_11_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_12_The_First_Spark.md]]
+  - Tags: chapter_12_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_13_The_First_Spark.md]]
+  - Tags: chapter_13_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_14_The_First_Spark.md]]
+  - Tags: chapter_14_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_15_The_First_Spark.md]]
+  - Tags: chapter_15_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_1_The_First_Spark.md]]
+  - Tags: chapter_1_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_2_The_First_Spark.md]]
+  - Tags: chapter_2_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_3_The_First_Spark.md]]
+  - Tags: chapter_3_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_4_The_First_Spark.md]]
+  - Tags: chapter_4_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_5_The_First_Spark.md]]
+  - Tags: chapter_5_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_6_The_First_Spark.md]]
+  - Tags: chapter_6_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_7_The_First_Spark.md]]
+  - Tags: chapter_7_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_8_The_First_Spark.md]]
+  - Tags: chapter_8_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Chapters/Chapter_9_The_First_Spark.md]]
+  - Tags: chapter_9_the_first_spark, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_1_Echoes_of_the_God_Shock_-_The_Setup/Novella_1.5_The_First_Spark/Novella_1.5_Blueprint.md]]
+  - Tags: novella_1.5_blueprint, novella_1.5_the_first_spark, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_10_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_10_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_11_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_11_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_12_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_12_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_13_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_13_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_14_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_14_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_15_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_15_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_1_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_1_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_2_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_2_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_3_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_3_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_4_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_4_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_5_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_5_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_6_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_6_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_7_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_7_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_8_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_8_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Chapters/Chapter_9_The_Cogwheel_Conspiracy.md]]
+  - Tags: chapter_9_the_cogwheel_conspiracy, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.1_The_Cogwheel_Conspiracy/Novella_2.1_Blueprint.md]]
+  - Tags: novella_2.1_blueprint, novella_2.1_the_cogwheel_conspiracy, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_10_The_Price_of_Progress.md]]
+  - Tags: chapter_10_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_11_The_Price_of_Progress.md]]
+  - Tags: chapter_11_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_12_The_Price_of_Progress.md]]
+  - Tags: chapter_12_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_13_The_Price_of_Progress.md]]
+  - Tags: chapter_13_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_14_The_Price_of_Progress.md]]
+  - Tags: chapter_14_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_15_The_Price_of_Progress.md]]
+  - Tags: chapter_15_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_1_The_Price_of_Progress.md]]
+  - Tags: chapter_1_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_2_The_Price_of_Progress.md]]
+  - Tags: chapter_2_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_3_The_Price_of_Progress.md]]
+  - Tags: chapter_3_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_4_The_Price_of_Progress.md]]
+  - Tags: chapter_4_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_5_The_Price_of_Progress.md]]
+  - Tags: chapter_5_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_6_The_Price_of_Progress.md]]
+  - Tags: chapter_6_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_7_The_Price_of_Progress.md]]
+  - Tags: chapter_7_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_8_The_Price_of_Progress.md]]
+  - Tags: chapter_8_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Chapters/Chapter_9_The_Price_of_Progress.md]]
+  - Tags: chapter_9_the_price_of_progress, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.2_The_Price_of_Progress/Novella_2.2_Blueprint.md]]
+  - Tags: novella_2.2_blueprint, novella_2.2_the_price_of_progress, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_10_The_Serpents_Coil.md]]
+  - Tags: chapter_10_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_11_The_Serpents_Coil.md]]
+  - Tags: chapter_11_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_12_The_Serpents_Coil.md]]
+  - Tags: chapter_12_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_13_The_Serpents_Coil.md]]
+  - Tags: chapter_13_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_14_The_Serpents_Coil.md]]
+  - Tags: chapter_14_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_15_The_Serpents_Coil.md]]
+  - Tags: chapter_15_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_1_The_Serpents_Coil.md]]
+  - Tags: chapter_1_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_2_The_Serpents_Coil.md]]
+  - Tags: chapter_2_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_3_The_Serpents_Coil.md]]
+  - Tags: chapter_3_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_4_The_Serpents_Coil.md]]
+  - Tags: chapter_4_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_5_The_Serpents_Coil.md]]
+  - Tags: chapter_5_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_6_The_Serpents_Coil.md]]
+  - Tags: chapter_6_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_7_The_Serpents_Coil.md]]
+  - Tags: chapter_7_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_8_The_Serpents_Coil.md]]
+  - Tags: chapter_8_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Chapters/Chapter_9_The_Serpents_Coil.md]]
+  - Tags: chapter_9_the_serpents_coil, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.3_The_Serpents_Coil/Novella_2.3_Blueprint.md]]
+  - Tags: novella_2.3_blueprint, novella_2.3_the_serpents_coil, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_10_The_Unseen_Hand.md]]
+  - Tags: chapter_10_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_11_The_Unseen_Hand.md]]
+  - Tags: chapter_11_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_12_The_Unseen_Hand.md]]
+  - Tags: chapter_12_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_13_The_Unseen_Hand.md]]
+  - Tags: chapter_13_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_14_The_Unseen_Hand.md]]
+  - Tags: chapter_14_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_15_The_Unseen_Hand.md]]
+  - Tags: chapter_15_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_1_The_Unseen_Hand.md]]
+  - Tags: chapter_1_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_2_The_Unseen_Hand.md]]
+  - Tags: chapter_2_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_3_The_Unseen_Hand.md]]
+  - Tags: chapter_3_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_4_The_Unseen_Hand.md]]
+  - Tags: chapter_4_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_5_The_Unseen_Hand.md]]
+  - Tags: chapter_5_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_6_The_Unseen_Hand.md]]
+  - Tags: chapter_6_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_7_The_Unseen_Hand.md]]
+  - Tags: chapter_7_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_8_The_Unseen_Hand.md]]
+  - Tags: chapter_8_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Chapters/Chapter_9_The_Unseen_Hand.md]]
+  - Tags: chapter_9_the_unseen_hand, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.4_The_Unseen_Hand/Novella_2.4_Blueprint.md]]
+  - Tags: novella_2.4_blueprint, novella_2.4_the_unseen_hand, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_10_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_10_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_11_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_11_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_12_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_12_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_13_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_13_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_14_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_14_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_15_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_15_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_1_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_1_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_2_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_2_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_3_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_3_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_4_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_4_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_5_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_5_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_6_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_6_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_7_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_7_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_8_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_8_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Chapters/Chapter_9_The_First_Betrayal_Alaras_Betrayal.md]]
+  - Tags: chapter_9_the_first_betrayal_alaras_betrayal, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_2_Chains_of_the_Gearlords_-_The_Pawn_Sacrifice/Novella_2.5_The_First_Betrayal_Alaras_Betrayal/Novella_2.5_Blueprint.md]]
+  - Tags: novella_2.5_blueprint, novella_2.5_the_first_betrayal_alaras_betrayal, saga_outline
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_10_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_10_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_11_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_11_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_12_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_12_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_13_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_13_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_14_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_14_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_15_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_15_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_1_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_1_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_2_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_2_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_3_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_3_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_4_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_4_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_5_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_5_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_6_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_6_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_7_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_7_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_8_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_8_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Chapters/Chapter_9_Copper_Crown__The_City_of_Whispers.md]]
+  - Tags: chapter_9_copper_crown__the_city_of_whispers, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.1_Copper_Crown__The_City_of_Whispers/Novella_3.1_Blueprint.md]]
+  - Tags: novella_3.1_blueprint, novella_3.1_copper_crown__the_city_of_whispers, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_10_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_10_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_11_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_11_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_12_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_12_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_13_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_13_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_14_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_14_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_15_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_15_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_1_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_1_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_2_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_2_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_3_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_3_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_4_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_4_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_5_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_5_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_6_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_6_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_7_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_7_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_8_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_8_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Chapters/Chapter_9_The_Calculating_Heart__The_Art_of_the_Deal.md]]
+  - Tags: chapter_9_the_calculating_heart__the_art_of_the_deal, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.2_The_Calculating_Heart__The_Art_of_the_Deal/Novella_3.2_Blueprint.md]]
+  - Tags: novella_3.2_blueprint, novella_3.2_the_calculating_heart__the_art_of_the_deal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_10_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_10_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_11_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_11_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_12_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_12_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_13_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_13_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_14_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_14_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_15_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_15_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_1_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_1_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_2_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_2_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_3_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_3_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_4_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_4_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_5_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_5_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_6_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_6_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_7_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_7_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_8_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_8_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Chapters/Chapter_9_Gearwrights_Gambit__The_Serpents_Kiss.md]]
+  - Tags: chapter_9_gearwrights_gambit__the_serpents_kiss, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.3_Gearwrights_Gambit__The_Serpents_Kiss/Novella_3.3_Blueprint.md]]
+  - Tags: novella_3.3_blueprint, novella_3.3_gearwrights_gambit__the_serpents_kiss, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_10_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_10_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_11_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_11_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_12_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_12_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_13_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_13_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_14_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_14_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_15_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_15_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_1_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_1_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_2_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_2_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_3_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_3_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_4_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_4_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_5_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_5_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_6_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_6_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_7_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_7_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_8_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_8_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Chapters/Chapter_9_Harmonic_Convergence__The_Weight_of_the_Crown.md]]
+  - Tags: chapter_9_harmonic_convergence__the_weight_of_the_crown, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.4_Harmonic_Convergence__The_Weight_of_the_Crown/Novella_3.4_Blueprint.md]]
+  - Tags: novella_3.4_blueprint, novella_3.4_harmonic_convergence__the_weight_of_the_crown, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_10_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_10_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_11_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_11_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_12_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_12_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_13_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_13_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_14_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_14_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_15_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_15_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_1_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_1_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_2_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_2_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_3_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_3_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_4_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_4_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_5_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_5_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_6_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_6_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_7_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_7_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_8_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_8_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Chapters/Chapter_9_The_Dust_Throne_Lysandras_Betrayal.md]]
+  - Tags: chapter_9_the_dust_throne_lysandras_betrayal, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_3_Masks_of_Ferris_-_The_Moral_Inversion/Novella_3.5_The_Dust_Throne_Lysandras_Betrayal/Novella_3.5_Blueprint.md]]
+  - Tags: novella_3.5_blueprint, novella_3.5_the_dust_throne_lysandras_betrayal, saga_outline, series_3_masks_of_ferris___the_moral_inversion
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_10_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_10_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_11_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_11_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_12_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_12_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_13_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_13_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_14_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_14_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_15_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_15_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_1_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_1_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_2_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_2_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_3_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_3_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_4_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_4_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_5_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_5_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_6_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_6_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_7_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_7_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_8_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_8_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Chapters/Chapter_9_Famines_Edge__The_Blighted_Harvest.md]]
+  - Tags: chapter_9_famines_edge__the_blighted_harvest, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.1_Famines_Edge__The_Blighted_Harvest/Novella_4.1_Blueprint.md]]
+  - Tags: novella_4.1_blueprint, novella_4.1_famines_edge__the_blighted_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_10_The_Rationing_Wars.md]]
+  - Tags: chapter_10_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_11_The_Rationing_Wars.md]]
+  - Tags: chapter_11_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_12_The_Rationing_Wars.md]]
+  - Tags: chapter_12_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_13_The_Rationing_Wars.md]]
+  - Tags: chapter_13_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_14_The_Rationing_Wars.md]]
+  - Tags: chapter_14_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_15_The_Rationing_Wars.md]]
+  - Tags: chapter_15_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_1_The_Rationing_Wars.md]]
+  - Tags: chapter_1_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_2_The_Rationing_Wars.md]]
+  - Tags: chapter_2_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_3_The_Rationing_Wars.md]]
+  - Tags: chapter_3_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_4_The_Rationing_Wars.md]]
+  - Tags: chapter_4_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_5_The_Rationing_Wars.md]]
+  - Tags: chapter_5_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_6_The_Rationing_Wars.md]]
+  - Tags: chapter_6_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_7_The_Rationing_Wars.md]]
+  - Tags: chapter_7_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_8_The_Rationing_Wars.md]]
+  - Tags: chapter_8_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Chapters/Chapter_9_The_Rationing_Wars.md]]
+  - Tags: chapter_9_the_rationing_wars, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.2_The_Rationing_Wars/Novella_4.2_Blueprint.md]]
+  - Tags: novella_4.2_blueprint, novella_4.2_the_rationing_wars, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_10_Bread_and_Betrayal.md]]
+  - Tags: chapter_10_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_11_Bread_and_Betrayal.md]]
+  - Tags: chapter_11_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_12_Bread_and_Betrayal.md]]
+  - Tags: chapter_12_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_13_Bread_and_Betrayal.md]]
+  - Tags: chapter_13_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_14_Bread_and_Betrayal.md]]
+  - Tags: chapter_14_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_15_Bread_and_Betrayal.md]]
+  - Tags: chapter_15_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_1_Bread_and_Betrayal.md]]
+  - Tags: chapter_1_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_2_Bread_and_Betrayal.md]]
+  - Tags: chapter_2_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_3_Bread_and_Betrayal.md]]
+  - Tags: chapter_3_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_4_Bread_and_Betrayal.md]]
+  - Tags: chapter_4_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_5_Bread_and_Betrayal.md]]
+  - Tags: chapter_5_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_6_Bread_and_Betrayal.md]]
+  - Tags: chapter_6_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_7_Bread_and_Betrayal.md]]
+  - Tags: chapter_7_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_8_Bread_and_Betrayal.md]]
+  - Tags: chapter_8_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Chapters/Chapter_9_Bread_and_Betrayal.md]]
+  - Tags: chapter_9_bread_and_betrayal, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.3_Bread_and_Betrayal/Novella_4.3_Blueprint.md]]
+  - Tags: novella_4.3_blueprint, novella_4.3_bread_and_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_10_The_Last_Harvest.md]]
+  - Tags: chapter_10_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_11_The_Last_Harvest.md]]
+  - Tags: chapter_11_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_12_The_Last_Harvest.md]]
+  - Tags: chapter_12_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_13_The_Last_Harvest.md]]
+  - Tags: chapter_13_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_14_The_Last_Harvest.md]]
+  - Tags: chapter_14_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_15_The_Last_Harvest.md]]
+  - Tags: chapter_15_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_1_The_Last_Harvest.md]]
+  - Tags: chapter_1_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_2_The_Last_Harvest.md]]
+  - Tags: chapter_2_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_3_The_Last_Harvest.md]]
+  - Tags: chapter_3_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_4_The_Last_Harvest.md]]
+  - Tags: chapter_4_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_5_The_Last_Harvest.md]]
+  - Tags: chapter_5_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_6_The_Last_Harvest.md]]
+  - Tags: chapter_6_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_7_The_Last_Harvest.md]]
+  - Tags: chapter_7_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_8_The_Last_Harvest.md]]
+  - Tags: chapter_8_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Chapters/Chapter_9_The_Last_Harvest.md]]
+  - Tags: chapter_9_the_last_harvest, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.4_The_Last_Harvest/Novella_4.4_Blueprint.md]]
+  - Tags: novella_4.4_blueprint, novella_4.4_the_last_harvest, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_10_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_10_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_11_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_11_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_12_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_12_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_13_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_13_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_14_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_14_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_15_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_15_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_1_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_1_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_2_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_2_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_3_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_3_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_4_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_4_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_5_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_5_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_6_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_6_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_7_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_7_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_8_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_8_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Chapters/Chapter_9_Supply_Line_Calixs_Betrayal.md]]
+  - Tags: chapter_9_supply_line_calixs_betrayal, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_4_The_Starving_Gears_-_The_Cost_of_Efficiency/Novella_4.5_Supply_Line_Calixs_Betrayal/Novella_4.5_Blueprint.md]]
+  - Tags: novella_4.5_blueprint, novella_4.5_supply_line_calixs_betrayal, saga_outline, series_4_the_starving_gears___the_cost_of_efficiency
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_10_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_10_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_11_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_11_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_12_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_12_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_13_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_13_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_14_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_14_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_15_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_15_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_1_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_1_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_2_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_2_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_3_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_3_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_4_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_4_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_5_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_5_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_6_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_6_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_7_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_7_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_8_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_8_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Chapters/Chapter_9_Parasite_Protocols__The_Deepening_Dissonance.md]]
+  - Tags: chapter_9_parasite_protocols__the_deepening_dissonance, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.1_Parasite_Protocols__The_Deepening_Dissonance/Novella_5.1_Blueprint.md]]
+  - Tags: novella_5.1_blueprint, novella_5.1_parasite_protocols__the_deepening_dissonance, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_10_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_10_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_11_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_11_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_12_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_12_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_13_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_13_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_14_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_14_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_15_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_15_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_1_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_1_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_2_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_2_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_3_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_3_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_4_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_4_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_5_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_5_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_6_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_6_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_7_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_7_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_8_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_8_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Chapters/Chapter_9_The_Spine_Speaks__Echoes_of_the_First_Spark.md]]
+  - Tags: chapter_9_the_spine_speaks__echoes_of_the_first_spark, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.2_The_Spine_Speaks__Echoes_of_the_First_Spark/Novella_5.2_Blueprint.md]]
+  - Tags: novella_5.2_blueprint, novella_5.2_the_spine_speaks__echoes_of_the_first_spark, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_10_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_10_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_11_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_11_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_12_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_12_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_13_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_13_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_14_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_14_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_15_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_15_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_1_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_1_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_2_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_2_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_3_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_3_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_4_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_4_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_5_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_5_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_6_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_6_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_7_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_7_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_8_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_8_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Chapters/Chapter_9_Quinlan_Fractures__The_Levers_Edge.md]]
+  - Tags: chapter_9_quinlan_fractures__the_levers_edge, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.3_Quinlan_Fractures__The_Levers_Edge/Novella_5.3_Blueprint.md]]
+  - Tags: novella_5.3_blueprint, novella_5.3_quinlan_fractures__the_levers_edge, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_10_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_10_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_11_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_11_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_12_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_12_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_13_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_13_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_14_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_14_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_15_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_15_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_1_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_1_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_2_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_2_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_3_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_3_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_4_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_4_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_5_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_5_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_6_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_6_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_7_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_7_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_8_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_8_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Chapters/Chapter_9_The_Levers_Weight__The_Hollowing_Gate.md]]
+  - Tags: chapter_9_the_levers_weight__the_hollowing_gate, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.4_The_Levers_Weight__The_Hollowing_Gate/Novella_5.4_Blueprint.md]]
+  - Tags: novella_5.4_blueprint, novella_5.4_the_levers_weight__the_hollowing_gate, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_10_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_10_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_11_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_11_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_12_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_12_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_13_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_13_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_14_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_14_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_15_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_15_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_1_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_1_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_2_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_2_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_3_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_3_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_4_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_4_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_5_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_5_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_6_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_6_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_7_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_7_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_8_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_8_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Chapters/Chapter_9_Hollowgate_Opens_Torens_Betrayal.md]]
+  - Tags: chapter_9_hollowgate_opens_torens_betrayal, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_5_The_Hollowing_-_The_Unreliable_Truth/Novella_5.5_Hollowgate_Opens_Torens_Betrayal/Novella_5.5_Blueprint.md]]
+  - Tags: novella_5.5_blueprint, novella_5.5_hollowgate_opens_torens_betrayal, saga_outline, series_5_the_hollowing___the_unreliable_truth
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_10_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_10_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_11_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_11_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_12_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_12_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_13_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_13_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_14_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_14_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_15_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_15_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_1_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_1_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_2_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_2_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_3_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_3_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_4_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_4_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_5_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_5_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_6_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_6_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_7_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_7_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_8_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_8_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Chapters/Chapter_9_After_the_Lever__The_Quiet_Bells.md]]
+  - Tags: chapter_9_after_the_lever__the_quiet_bells, novella_6.1_after_the_lever__the_quiet_bells, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.1_After_the_Lever__The_Quiet_Bells/Novella_6.1_Blueprint.md]]
+  - Tags: novella_6.1_after_the_lever__the_quiet_bells, novella_6.1_blueprint, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_10_Dissonance_Rising.md]]
+  - Tags: chapter_10_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_11_Dissonance_Rising.md]]
+  - Tags: chapter_11_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_12_Dissonance_Rising.md]]
+  - Tags: chapter_12_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_13_Dissonance_Rising.md]]
+  - Tags: chapter_13_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_14_Dissonance_Rising.md]]
+  - Tags: chapter_14_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_15_Dissonance_Rising.md]]
+  - Tags: chapter_15_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_1_Dissonance_Rising.md]]
+  - Tags: chapter_1_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_2_Dissonance_Rising.md]]
+  - Tags: chapter_2_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_3_Dissonance_Rising.md]]
+  - Tags: chapter_3_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_4_Dissonance_Rising.md]]
+  - Tags: chapter_4_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_5_Dissonance_Rising.md]]
+  - Tags: chapter_5_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_6_Dissonance_Rising.md]]
+  - Tags: chapter_6_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_7_Dissonance_Rising.md]]
+  - Tags: chapter_7_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_8_Dissonance_Rising.md]]
+  - Tags: chapter_8_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Chapters/Chapter_9_Dissonance_Rising.md]]
+  - Tags: chapter_9_dissonance_rising, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.2_Dissonance_Rising/Novella_6.2_Blueprint.md]]
+  - Tags: novella_6.2_blueprint, novella_6.2_dissonance_rising, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_10_The_Heresy_Engine.md]]
+  - Tags: chapter_10_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_11_The_Heresy_Engine.md]]
+  - Tags: chapter_11_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_12_The_Heresy_Engine.md]]
+  - Tags: chapter_12_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_13_The_Heresy_Engine.md]]
+  - Tags: chapter_13_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_14_The_Heresy_Engine.md]]
+  - Tags: chapter_14_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_15_The_Heresy_Engine.md]]
+  - Tags: chapter_15_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_1_The_Heresy_Engine.md]]
+  - Tags: chapter_1_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_2_The_Heresy_Engine.md]]
+  - Tags: chapter_2_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_3_The_Heresy_Engine.md]]
+  - Tags: chapter_3_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_4_The_Heresy_Engine.md]]
+  - Tags: chapter_4_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_5_The_Heresy_Engine.md]]
+  - Tags: chapter_5_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_6_The_Heresy_Engine.md]]
+  - Tags: chapter_6_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_7_The_Heresy_Engine.md]]
+  - Tags: chapter_7_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_8_The_Heresy_Engine.md]]
+  - Tags: chapter_8_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Chapters/Chapter_9_The_Heresy_Engine.md]]
+  - Tags: chapter_9_the_heresy_engine, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.3_The_Heresy_Engine/Novella_6.3_Blueprint.md]]
+  - Tags: novella_6.3_blueprint, novella_6.3_the_heresy_engine, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_10_The_Second_Spark.md]]
+  - Tags: chapter_10_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_11_The_Second_Spark.md]]
+  - Tags: chapter_11_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_12_The_Second_Spark.md]]
+  - Tags: chapter_12_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_13_The_Second_Spark.md]]
+  - Tags: chapter_13_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_14_The_Second_Spark.md]]
+  - Tags: chapter_14_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_15_The_Second_Spark.md]]
+  - Tags: chapter_15_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_1_The_Second_Spark.md]]
+  - Tags: chapter_1_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_2_The_Second_Spark.md]]
+  - Tags: chapter_2_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_3_The_Second_Spark.md]]
+  - Tags: chapter_3_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_4_The_Second_Spark.md]]
+  - Tags: chapter_4_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_5_The_Second_Spark.md]]
+  - Tags: chapter_5_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_6_The_Second_Spark.md]]
+  - Tags: chapter_6_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_7_The_Second_Spark.md]]
+  - Tags: chapter_7_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_8_The_Second_Spark.md]]
+  - Tags: chapter_8_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Chapters/Chapter_9_The_Second_Spark.md]]
+  - Tags: chapter_9_the_second_spark, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.4_The_Second_Spark/Novella_6.4_Blueprint.md]]
+  - Tags: novella_6.4_blueprint, novella_6.4_the_second_spark, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_10_The_Broken_Tone.md]]
+  - Tags: chapter_10_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_11_The_Broken_Tone.md]]
+  - Tags: chapter_11_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_12_The_Broken_Tone.md]]
+  - Tags: chapter_12_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_13_The_Broken_Tone.md]]
+  - Tags: chapter_13_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_14_The_Broken_Tone.md]]
+  - Tags: chapter_14_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_15_The_Broken_Tone.md]]
+  - Tags: chapter_15_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_1_The_Broken_Tone.md]]
+  - Tags: chapter_1_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_2_The_Broken_Tone.md]]
+  - Tags: chapter_2_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_3_The_Broken_Tone.md]]
+  - Tags: chapter_3_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_4_The_Broken_Tone.md]]
+  - Tags: chapter_4_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_5_The_Broken_Tone.md]]
+  - Tags: chapter_5_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_6_The_Broken_Tone.md]]
+  - Tags: chapter_6_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_7_The_Broken_Tone.md]]
+  - Tags: chapter_7_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_8_The_Broken_Tone.md]]
+  - Tags: chapter_8_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Chapters/Chapter_9_The_Broken_Tone.md]]
+  - Tags: chapter_9_the_broken_tone, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./Saga Outline/Series_6_The_Broken_Tone_-_The_Hard-Won_Redemption/Novella_6.5_The_Broken_Tone/Novella_6.5_Blueprint.md]]
+  - Tags: novella_6.5_blueprint, novella_6.5_the_broken_tone, saga_outline, series_6_the_broken_tone___the_hard_won_redemption
+- [[./canonical/characters/02e47a45-3de9-4bbd-a2fc-05adf2245750.yaml]]
+  - Tags: 
+- [[./canonical/characters/18e96714-953e-457e-a18a-c93585a9bb10.yaml]]
+  - Tags: 
+- [[./canonical/characters/1fb39ffc-7c60-4bcc-8282-f2b567c9c36d.yaml]]
+  - Tags: 
+- [[./canonical/characters/30a53c18-f1b3-4774-8ace-d0440716baef.yaml]]
+  - Tags: 
+- [[./canonical/characters/3739e1a8-1c6d-4ee5-bcaa-d5fdf4df362a.yaml]]
+  - Tags: 
+- [[./canonical/characters/451a8cfc-4819-4522-b9aa-d9406a42b1df.yaml]]
+  - Tags: 
+- [[./canonical/characters/822b0c68-6d35-4b6f-9055-3e6f71850d7d.yaml]]
+  - Tags: 
+- [[./canonical/characters/bd4193a8-f327-4479-975a-ed195b564a6e.yaml]]
+  - Tags: 
+- [[./canonical/characters/c2914e86-876d-45f0-bff1-8129585f7f7f.yaml]]
+  - Tags: 
+- [[./canonical/characters/c4be3e08-daaf-4a29-8c70-7f854ddf073c.yaml]]
+  - Tags: 
+- [[./canonical/characters/f0fa6ac3-eff1-420c-8213-fab0766cb159.yaml]]
+  - Tags: 
+- [[./canonical/characters/f4a22a1f-f793-4d43-a965-bbd311dfbbd9.yaml]]
+  - Tags: 
+- [[./canonical/factions/03538e23-1c82-4a17-a7fc-b315c87503cc.yaml]]
+  - Tags: 
+- [[./canonical/factions/0538835f-1fb8-46bf-a220-8690272943fd.yaml]]
+  - Tags: 
+- [[./canonical/factions/06709974-c2cc-460b-9c80-dbb41b206a09.yaml]]
+  - Tags: 
+- [[./canonical/factions/194283de-2cdd-41f3-9a49-84805efb49d0.yaml]]
+  - Tags: 
+- [[./canonical/factions/47dc8896-57d1-4da1-80cb-732e1a2db02a.yaml]]
+  - Tags: 
+- [[./canonical/factions/4c7ebf55-a759-493d-9790-35e2aeb555ec.yaml]]
+  - Tags: 
+- [[./canonical/factions/541cac77-8401-4503-9e7c-cd4327a79486.yaml]]
+  - Tags: 
+- [[./canonical/factions/55135061-3f4f-439a-945c-7e082a8ae646.yaml]]
+  - Tags: 
+- [[./canonical/factions/6169237b-6b25-425c-90e9-3078eadbd7ac.yaml]]
+  - Tags: 
+- [[./canonical/factions/617766d4-227b-4857-a5da-71cf8fc5623e.yaml]]
+  - Tags: 
+- [[./canonical/factions/74875a32-5fa5-4b8d-bbdb-49700fb782a0.yaml]]
+  - Tags: 
+- [[./canonical/factions/78e6e2cb-2f6b-43c4-993a-33241eb69805.yaml]]
+  - Tags: 
+- [[./canonical/factions/815751b4-660e-478a-96ac-c1f715155ef5.yaml]]
+  - Tags: 
+- [[./canonical/factions/8ac8c718-88df-4a6e-8512-ad3db3123c4c.yaml]]
+  - Tags: 
+- [[./canonical/factions/8d90e42e-e037-4216-a785-3c08f9e5a72d.yaml]]
+  - Tags: 
+- [[./canonical/factions/905738d2-2236-43f3-8d2b-357efaa0f616.yaml]]
+  - Tags: 
+- [[./canonical/factions/954199c0-c5e7-45e7-b5b2-f2093cb6e443.yaml]]
+  - Tags: 
+- [[./canonical/factions/b1b29a32-3276-4a78-b69e-01f9465a554a.yaml]]
+  - Tags: 
+- [[./canonical/factions/b3d5c64a-24bf-4390-81ab-749e83d28457.yaml]]
+  - Tags: 
+- [[./canonical/factions/c855638e-2629-4df4-a0ea-54327d5099fe.yaml]]
+  - Tags: 
+- [[./canonical/factions/de4a3217-d116-4103-b7c4-9306e18af3b2.yaml]]
+  - Tags: 
+- [[./canonical/factions/f93e8bb9-2099-4d0f-91f4-bd77a5eefb80.yaml]]
+  - Tags: 
+- [[./canonical/factions/fa1357f0-b714-4629-a845-0641f85c1674.yaml]]
+  - Tags: 
+- [[./canonical/factions/faa252fc-feeb-4da7-8e28-c8ef2b5712e8.yaml]]
+  - Tags: 
+- [[./canonical/misc/11dba165-7421-43ad-be0b-363abf62e9fd.yaml]]
+  - Tags: 
+- [[./canonical/misc/14a1ab11-209b-42a8-8abe-b851b5b4b1e6.yaml]]
+  - Tags: 
+- [[./canonical/misc/19faf0df-9fea-4d5c-8d1e-8885951a5ee2.yaml]]
+  - Tags: 
+- [[./canonical/misc/216ac60c-bf0b-4a3d-af1a-99b876541fe5.yaml]]
+  - Tags: 
+- [[./canonical/misc/21f477a2-001d-4460-b7dc-c4dc9cd3ce1e.yaml]]
+  - Tags: 
+- [[./canonical/misc/24e10c8e-b0ad-4995-93d4-c7d253894c03.yaml]]
+  - Tags: 
+- [[./canonical/misc/2c426a75-3e22-49cd-be3a-5fc0b0bfeda9.yaml]]
+  - Tags: 
+- [[./canonical/misc/2ffd6bfd-91a8-4db8-8cf1-4736e7387d80.yaml]]
+  - Tags: 
+- [[./canonical/misc/36104153-5a55-4376-81f6-15df49353637.yaml]]
+  - Tags: 
+- [[./canonical/misc/3e82bdc3-35d4-407a-8229-7479e061d8ad.yaml]]
+  - Tags: 
+- [[./canonical/misc/457e470f-ae08-4f62-9121-68d3673c78e8.yaml]]
+  - Tags: 
+- [[./canonical/misc/47b8a858-dc83-4a4c-a9b9-848e6526662f.yaml]]
+  - Tags: 
+- [[./canonical/misc/4af42a81-c7d4-4d9f-b37a-abf1e0a224a8.yaml]]
+  - Tags: 
+- [[./canonical/misc/4b83ffc5-8bbe-4ee8-940a-f553b1b89790.yaml]]
+  - Tags: 
+- [[./canonical/misc/5153da0d-b6eb-436e-88ad-773b17cf09b1.yaml]]
+  - Tags: 
+- [[./canonical/misc/526dd380-3371-475e-a7c0-9c0adb8b7652.yaml]]
+  - Tags: 
+- [[./canonical/misc/5735880b-746f-4eb2-9405-a08311aa5b22.yaml]]
+  - Tags: 
+- [[./canonical/misc/5d8cfe63-4169-4245-8bc2-ad7ca0981176.yaml]]
+  - Tags: 
+- [[./canonical/misc/5e10dfa9-0fdd-47da-9313-4eb0fc53d9ec.yaml]]
+  - Tags: 
+- [[./canonical/misc/6185bf2e-684b-46f2-9a3a-d2cc3ac84859.yaml]]
+  - Tags: 
+- [[./canonical/misc/63efd6d5-6609-4ba1-86b2-893d888d4035.yaml]]
+  - Tags: 
+- [[./canonical/misc/64be18ad-c249-40bb-8cea-febc263fe712.yaml]]
+  - Tags: 
+- [[./canonical/misc/67c7f257-44d6-4b4f-9c1c-603a0c7e8ecb.yaml]]
+  - Tags: 
+- [[./canonical/misc/6801636d-822d-49de-bc29-281e2995a517.yaml]]
+  - Tags: 
+- [[./canonical/misc/6ad83663-565c-440e-94ad-154c7b23c6b5.yaml]]
+  - Tags: 
+- [[./canonical/misc/6d190659-52f3-49fd-8d8b-25fc5a4ffd27.yaml]]
+  - Tags: 
+- [[./canonical/misc/708ccfee-6f7c-4cd8-af43-c9041be11e9c.yaml]]
+  - Tags: 
+- [[./canonical/misc/7562ac90-14ae-4d4d-888e-c78cff469ea5.yaml]]
+  - Tags: 
+- [[./canonical/misc/783ddd28-c3a0-4275-8c9d-50a12b6e631c.yaml]]
+  - Tags: 
+- [[./canonical/misc/7b9a1f09-bc1f-4e33-8662-ac06159c5e13.yaml]]
+  - Tags: 
+- [[./canonical/misc/7c4e410b-a2a1-4a87-b0bc-3f844bf01a3c.yaml]]
+  - Tags: 
+- [[./canonical/misc/813ecd25-55dc-4cf5-88f5-7699bbbbeadb.yaml]]
+  - Tags: 
+- [[./canonical/misc/81c4158a-672d-4874-bbe1-fc780662af33.yaml]]
+  - Tags: 
+- [[./canonical/misc/8464d030-38c3-4b8d-a7d7-0e49b65e9dfe.yaml]]
+  - Tags: 
+- [[./canonical/misc/85ba733d-9331-4a63-b6f0-21e2d4e83173.yaml]]
+  - Tags: 
+- [[./canonical/misc/8a0a26cb-cbf8-41bb-a932-1805894265b1.yaml]]
+  - Tags: 
+- [[./canonical/misc/906291a6-7999-49bf-9363-37bd32d9801f.yaml]]
+  - Tags: 
+- [[./canonical/misc/9736bce4-ff47-48e7-89fb-e222ed405094.yaml]]
+  - Tags: 
+- [[./canonical/misc/98183581-d996-4b98-90a0-32bf2a0d1923.yaml]]
+  - Tags: 
+- [[./canonical/misc/986114eb-4f6b-4f9f-b5ce-247ebbac7359.yaml]]
+  - Tags: 
+- [[./canonical/misc/9a687c7a-670c-4f0c-a44a-5a7c7ec372b2.yaml]]
+  - Tags: 
+- [[./canonical/misc/9af01aa3-1b96-4bfb-9f68-f12e04f2ca50.yaml]]
+  - Tags: 
+- [[./canonical/misc/9dc3c2a9-181c-4bda-b46a-46cafa2facd5.yaml]]
+  - Tags: 
+- [[./canonical/misc/9ec92aa0-ee9f-4da1-8891-69ca6810e33d.yaml]]
+  - Tags: 
+- [[./canonical/misc/a6c4a524-5591-4222-935f-5d241f80a6d1.yaml]]
+  - Tags: 
+- [[./canonical/misc/ab392d9c-4c51-413c-bb1f-d09de0ff158b.yaml]]
+  - Tags: 
+- [[./canonical/misc/ab5a48d0-af3d-43d9-a214-9546c9095215.yaml]]
+  - Tags: 
+- [[./canonical/misc/ac741fba-314f-4f6c-b7c7-c76f1eddebad.yaml]]
+  - Tags: 
+- [[./canonical/misc/ae92b9e8-a64e-4e8f-bd47-b34233802ef6.yaml]]
+  - Tags: 
+- [[./canonical/misc/aeebc33e-fd46-4107-9746-2cea6baaa62f.yaml]]
+  - Tags: 
+- [[./canonical/misc/b5d5ba22-d0bb-42f0-be4e-7165a4ec671f.yaml]]
+  - Tags: 
+- [[./canonical/misc/b652a081-e74b-466b-91db-94b0f5170c80.yaml]]
+  - Tags: 
+- [[./canonical/misc/b75e613c-93d7-4bce-87e6-f56ad6994421.yaml]]
+  - Tags: 
+- [[./canonical/misc/b78e7a82-e306-4647-a0bc-e5ed67f2dafd.yaml]]
+  - Tags: 
+- [[./canonical/misc/b8c4e6fd-0ce5-41de-b30a-c0eaae1a14e4.yaml]]
+  - Tags: 
+- [[./canonical/misc/bba88313-e676-4ba4-9224-61e31bed5481.yaml]]
+  - Tags: 
+- [[./canonical/misc/be898901-4407-4553-a4c0-374b4484f1d8.yaml]]
+  - Tags: 
+- [[./canonical/misc/c11dd365-28d7-4560-94fa-8773db00dd7a.yaml]]
+  - Tags: 
+- [[./canonical/misc/c3cb09bc-755f-45ff-abc8-8810c1b5d9d6.yaml]]
+  - Tags: 
+- [[./canonical/misc/c633ad29-814e-4ed6-a2d2-6ba29dbb3078.yaml]]
+  - Tags: 
+- [[./canonical/misc/c9e05c1c-c807-464f-afa6-d56fd5b8f44a.yaml]]
+  - Tags: 
+- [[./canonical/misc/caecba73-a4af-4bb4-91f0-9c532cab465f.yaml]]
+  - Tags: 
+- [[./canonical/misc/d042ca58-4215-4757-8516-324460943ec7.yaml]]
+  - Tags: 
+- [[./canonical/misc/d68aebf6-9015-4e24-a66c-33fd8729d427.yaml]]
+  - Tags: 
+- [[./canonical/misc/da7780a6-6f76-41c0-a8c3-f7ba32115d6b.yaml]]
+  - Tags: 
+- [[./canonical/misc/e00ee142-e5e5-459a-a40f-f881ed4cdd97.yaml]]
+  - Tags: 
+- [[./canonical/misc/e3095716-435b-4b68-be76-5d3804ce98b5.yaml]]
+  - Tags: 
+- [[./canonical/misc/e4aecf13-e3a8-45e8-b10a-964c164aeaeb.yaml]]
+  - Tags: 
+- [[./canonical/misc/ecb4a216-72d6-4580-93e3-60916bde3388.yaml]]
+  - Tags: 
+- [[./canonical/misc/f02750cb-640b-4e57-918f-b367b5643283.yaml]]
+  - Tags: 
+- [[./canonical/misc/f081cf80-ee6e-4c5e-ad66-0f5a4e50148c.yaml]]
+  - Tags: 
+- [[./canonical/misc/f1853fa9-fc12-498f-b185-1373b6d5dd66.yaml]]
+  - Tags: 
+- [[./canonical/misc/f254080b-787d-4a33-9f11-23920ab7f1da.yaml]]
+  - Tags: 
+- [[./canonical/misc/fa08bac3-bc72-4fb5-8d4a-0a56b69fd360.yaml]]
+  - Tags: 
+- [[./canonical/misc/fdb138ae-22ea-44c9-aa89-0ac8358c8c13.yaml]]
+  - Tags: 
+- [[./canonical/misc/fe9f09ca-042f-4a87-8148-58a4e6e4dfe8.yaml]]
+  - Tags: 
+- [[./character_dossiers/Corlexi_Dossier.md]]
+  - Tags: character_dossiers, corlexi_dossier
+- [[./character_dossiers/Eries_Dossier.md]]
+  - Tags: character_dossiers, eries_dossier
+- [[./character_dossiers/Jhace_Dossier.md]]
+  - Tags: character_dossiers, jhace_dossier
+- [[./character_dossiers/Luthen_Dossier.md]]
+  - Tags: character_dossiers, luthen_dossier
+- [[./character_dossiers/Mobel_Dossier.md]]
+  - Tags: character_dossiers, mobel_dossier
+- [[./character_dossiers/Salee_Dossier.md]]
+  - Tags: character_dossiers, salee_dossier
+- [[./confluence-chronicles/README.md]]
+  - Tags: confluence_chronicles
+- [[./confluence-chronicles/source/Resonance_World_Bible_v1.md]]
+  - Tags: confluence_chronicles, resonance_world_bible_v1
+- [[./confluence-chronicles/source/bibled.md]]
+  - Tags: bibled, confluence_chronicles
+- [[./confluence-chronicles/source/markdown.md]]
+  - Tags: confluence_chronicles, markdown
+- [[./exploratory_prompts.md]]
+  - Tags: exploratory_prompts
+- [[./source/TheConfluenceChronicles_RevisedStoryBible-AMasterclassinStrategicStorytelling.md]]
+  - Tags: theconfluencechronicles_revisedstorybible_amasterclassinstrategicstorytelling

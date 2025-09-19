@@ -1,3 +1,7 @@
+---
+tags: ['chapter_1_the_cogwheel_conspiracy', 'novella_2.1_the_cogwheel_conspiracy', 'saga_outline']
+---
+
 # Chapter 1: The Unfolding of The Cogwheel Conspiracy (Part 1/15)
 
 **Novella:** The Cogwheel Conspiracy

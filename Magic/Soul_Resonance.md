@@ -6,6 +6,9 @@ Tags: [Lore, Magic, Resonance, CoreSystem]
 Status: "Canonical"
 Related: [Vitaflow, Divine_Principles, Fathombreak, Resonance_Forms, Soul_Bonding]
 ---
+tags: ['magic', 'soul_resonance']
+---
+
 
 # Soul Resonance
 
@@ -42,3 +45,4 @@ Resonance is never free.
 - **Social:** Tether fragility, collective risk.
 - **Spiritual:** Divine attention and demands.
 - **Soul Burn:** Permanent spiritual damage from overuse.
+se.

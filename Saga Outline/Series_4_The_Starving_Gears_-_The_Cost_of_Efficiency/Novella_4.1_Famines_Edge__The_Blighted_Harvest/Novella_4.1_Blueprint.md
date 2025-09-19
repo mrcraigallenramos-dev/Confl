@@ -1,3 +1,7 @@
+---
+tags: ['novella_4.1_blueprint', 'novella_4.1_famines_edge__the_blighted_harvest', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Famine's Edge / The Blighted Harvest
 
 **Series:** The Starving Gears - The Cost of Efficiency

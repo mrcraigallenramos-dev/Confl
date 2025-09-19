@@ -1,3 +1,7 @@
+---
+tags: ['chapter_4_lanterns_over_brasshaven__the_first_quaver', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Chapter 4: The Rust Edict"s Shadow
 
 **Novella:** Lanterns Over Brasshaven / The First Quaver

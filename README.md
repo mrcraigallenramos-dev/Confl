@@ -1,3 +1,7 @@
+---
+tags: ['document']
+---
+
 # Confluence Chronicles Story Bible Repository
 
 A comprehensive, schema-validated repository containing the canonical story bible for **The Confluence Chronicles** saga, organized into structured data formats for consistency and cross-reference validation.

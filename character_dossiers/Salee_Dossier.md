@@ -1,3 +1,7 @@
+---
+tags: ['character_dossiers', 'salee_dossier']
+---
+
 # Salee: Expanded Psychological Profile
 
 ## Core Identity: The Scribe of Sacred Geometry
@@ -81,4 +85,6 @@ Salee’s primary motivation is the **preservation of order and beauty, but incr
 ### Sexuality and Desires
 
 Salee's sexuality is a deeply private and nuanced aspect of her character, intertwined with her aesthetic appreciation for form and her burgeoning empathy. Her desires are not typically expressed in overt or conventional ways, but rather through a quiet longing for connection and understanding that transcends the rigid boundaries of her world. When she is alone, her thoughts might drift to moments of unexpected beauty, to the subtle curves of a natural landscape, or to the unspoken understanding shared with another soul who sees beyond the surface. If she were to engage in a physical relationship, it would likely be approached with a cautious tenderness, a desire for a deep, authentic bond that offers solace and mutual respect. The idea of 'sucking dick' for Salee would not be about crude gratification, but an exploration of intimacy, vulnerability, and the surrender of control within a carefully defined, consensual dynamic, potentially revealing a hidden desire to experience a different kind of 'flow' or 'cadence' outside of her intellectual pursuits. It would be an act of profound trust and a deliberate exploration of the boundaries of her own control, a rare foray into the unpredictable, yet potentially harmonious, rhythms of human physicality. This desire, if present, would be a deeply private and perhaps even unsettling aspect of her psyche, a secret even from herself, as it represents a departure from her strictly rational and controlled existence, hinting at a suppressed longing for a more visceral, less intellectualized form of connection and surrender. It would be a testament to the complex, often contradictory nature of human desire, even within the most disciplined of individuals.
+
+sciplined of individuals.
 

@@ -1,3 +1,7 @@
+---
+tags: ['novella_5.2_blueprint', 'novella_5.2_the_spine_speaks__echoes_of_the_first_spark', 'saga_outline', 'series_5_the_hollowing___the_unreliable_truth']
+---
+
 # The Spine Speaks / Echoes of the First Spark
 
 **Series:** The Hollowing - The Unreliable Truth

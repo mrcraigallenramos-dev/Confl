@@ -1,3 +1,7 @@
+---
+tags: ['chapter_6_lanterns_over_brasshaven__the_first_quaver', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Chapter 6: Echoes of the Shattered Spire
 
 **Novella:** Lanterns Over Brasshaven / The First Quaver

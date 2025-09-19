@@ -1,3 +1,7 @@
+---
+tags: ['locations', 'the_wild_resonance']
+---
+
 
 ---
 Entry: "The Wild Resonance"

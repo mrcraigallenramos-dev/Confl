@@ -1,3 +1,7 @@
+---
+tags: ['novella_4.3_blueprint', 'novella_4.3_bread_and_betrayal', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Bread and Betrayal
 
 **Series:** The Starving Gears - The Cost of Efficiency

@@ -1,3 +1,7 @@
+---
+tags: ['chapter_8_the_spine_speaks__echoes_of_the_first_spark', 'novella_5.2_the_spine_speaks__echoes_of_the_first_spark', 'saga_outline', 'series_5_the_hollowing___the_unreliable_truth']
+---
+
 # Chapter 8: The Unfolding of The Spine Speaks / Echoes of the First Spark (Part 8/15)
 
 **Novella:** The Spine Speaks / Echoes of the First Spark

@@ -1,3 +1,7 @@
+---
+tags: ['novella_3.3_blueprint', 'novella_3.3_gearwrights_gambit__the_serpents_kiss', 'saga_outline', 'series_3_masks_of_ferris___the_moral_inversion']
+---
+
 # Gearwright's Gambit / The Serpent's Kiss
 
 **Series:** Masks of Ferris - The Moral Inversion

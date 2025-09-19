@@ -1,3 +1,7 @@
+---
+tags: ['novella_4.5_blueprint', 'novella_4.5_supply_line_calixs_betrayal', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Supply Line (Calix's Betrayal)
 
 **Series:** The Starving Gears - The Cost of Efficiency

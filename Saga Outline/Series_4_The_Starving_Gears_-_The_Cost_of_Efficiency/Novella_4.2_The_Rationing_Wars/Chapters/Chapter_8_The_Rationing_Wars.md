@@ -1,3 +1,7 @@
+---
+tags: ['chapter_8_the_rationing_wars', 'novella_4.2_the_rationing_wars', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Chapter 8: The Unfolding of The Rationing Wars (Part 8/15)
 
 **Novella:** The Rationing Wars

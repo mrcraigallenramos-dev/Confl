@@ -1,3 +1,7 @@
+---
+tags: ['novella_5.4_blueprint', 'novella_5.4_the_levers_weight__the_hollowing_gate', 'saga_outline', 'series_5_the_hollowing___the_unreliable_truth']
+---
+
 # The Lever's Weight / The Hollowing Gate
 
 **Series:** The Hollowing - The Unreliable Truth

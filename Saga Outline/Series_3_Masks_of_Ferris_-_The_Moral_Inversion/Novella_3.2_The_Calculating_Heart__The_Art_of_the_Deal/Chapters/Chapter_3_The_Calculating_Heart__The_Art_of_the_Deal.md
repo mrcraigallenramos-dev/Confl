@@ -1,3 +1,7 @@
+---
+tags: ['chapter_3_the_calculating_heart__the_art_of_the_deal', 'novella_3.2_the_calculating_heart__the_art_of_the_deal', 'saga_outline', 'series_3_masks_of_ferris___the_moral_inversion']
+---
+
 # Chapter 3: The Unfolding of The Calculating Heart / The Art of the Deal (Part 3/15)
 
 **Novella:** The Calculating Heart / The Art of the Deal

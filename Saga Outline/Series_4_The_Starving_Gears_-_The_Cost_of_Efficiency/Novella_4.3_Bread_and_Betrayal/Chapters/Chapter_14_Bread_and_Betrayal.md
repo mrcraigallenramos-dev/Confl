@@ -1,3 +1,7 @@
+---
+tags: ['chapter_14_bread_and_betrayal', 'novella_4.3_bread_and_betrayal', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Chapter 14: The Unfolding of Bread and Betrayal (Part 14/15)
 
 **Novella:** Bread and Betrayal

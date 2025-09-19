@@ -1,3 +1,7 @@
+---
+tags: ['chapter_13_the_second_spark', 'novella_6.4_the_second_spark', 'saga_outline', 'series_6_the_broken_tone___the_hard_won_redemption']
+---
+
 # Chapter 13: The Unfolding of The Second Spark (Part 13/15)
 
 **Novella:** The Second Spark

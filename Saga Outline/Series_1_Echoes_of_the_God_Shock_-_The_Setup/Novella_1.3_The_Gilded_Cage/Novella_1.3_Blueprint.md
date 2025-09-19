@@ -1,3 +1,7 @@
+---
+tags: ['novella_1.3_blueprint', 'novella_1.3_the_gilded_cage', 'saga_outline']
+---
+
 # The Gilded Cage
 
 **Series:** Echoes of the God Shock - The Setup

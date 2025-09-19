@@ -1,3 +1,7 @@
+---
+tags: ['chapter_2_after_the_lever__the_quiet_bells', 'novella_6.1_after_the_lever__the_quiet_bells', 'saga_outline', 'series_6_the_broken_tone___the_hard_won_redemption']
+---
+
 # Chapter 2: The Unfolding of After the Lever / The Quiet Bells (Part 2/15)
 
 **Novella:** After the Lever / The Quiet Bells

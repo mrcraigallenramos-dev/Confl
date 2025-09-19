@@ -1,3 +1,7 @@
+---
+tags: ['confluence_chronicles']
+---
+
 # Confluence Chronicles Project
 
 This repository contains the canonical data for the Confluence Chronicles series, extracted and validated from various source documents.

@@ -1,3 +1,7 @@
+---
+tags: ['novella_6.3_blueprint', 'novella_6.3_the_heresy_engine', 'saga_outline', 'series_6_the_broken_tone___the_hard_won_redemption']
+---
+
 # The Heresy Engine
 
 **Series:** The Broken Tone - The Hard-Won Redemption
