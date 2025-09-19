@@ -1,3 +1,7 @@
+---
+tags: ['document']
+---
+
 # Confluence Chronicles Story Bible Repository
 
 This repository contains the story bibles for the Confluence Chronicles project, parsed into a canonical, schema-validated format.

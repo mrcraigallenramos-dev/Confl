@@ -1,3 +1,7 @@
+---
+tags: ['chapter_2_lanterns_over_brasshaven__the_first_quaver', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Chapter 2: Whispers in the Lattice
 
 **Novella:** Lanterns Over Brasshaven / The First Quaver

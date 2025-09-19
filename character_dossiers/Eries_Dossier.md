@@ -1,3 +1,7 @@
+---
+tags: ['character_dossiers', 'eries_dossier']
+---
+
 # Eries Dossier
 
 **Principle:** Decay (Seeri)

@@ -1,3 +1,7 @@
+---
+tags: ['chapter_10_the_last_harvest', 'novella_4.4_the_last_harvest', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Chapter 10: The Unfolding of The Last Harvest (Part 10/15)
 
 **Novella:** The Last Harvest

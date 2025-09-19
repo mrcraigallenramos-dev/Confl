@@ -1,3 +1,7 @@
+---
+tags: ['characters', 'secondary_characters.md']
+---
+
 # Secondary Characters Index
 
 This index lists the secondary characters in the Confluence Chronicles.

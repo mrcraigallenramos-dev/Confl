@@ -1,3 +1,7 @@
+---
+tags: ['novella_3.5_blueprint', 'novella_3.5_the_dust_throne_lysandras_betrayal', 'saga_outline', 'series_3_masks_of_ferris___the_moral_inversion']
+---
+
 # The Dust Throne (Lysandra's Betrayal)
 
 **Series:** Masks of Ferris - The Moral Inversion

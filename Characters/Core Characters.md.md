@@ -1,3 +1,7 @@
+---
+tags: ['characters', 'core_characters.md']
+---
+
 # Core Characters
 
 The central figures of *The Confluence Chronicles*.

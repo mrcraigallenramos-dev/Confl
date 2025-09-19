@@ -1,3 +1,7 @@
+---
+tags: ['confluence_chronicles', 'markdown']
+---
+
 \`markdown
 
 \#\# Novella 1.1: Lanterns Over Brasshaven / The First Quaver
@@ -958,6 +962,23 @@ battle fought and, against all goddamned odds, won.
 Tiffani and Jhace, those two stubborn bastards, their memories mostly
 restored, find themselves in a quieter, more mature affection. It\'s not
 the fiery passion of youth, you dumbasses; it\'s something deeper,
+something forged in the crucible of trauma and sacrifice. Their love is
+a broken tone, imperfect yet profoundly beautiful, a testament to the
+enduring power of connection in a world that tried its damnedest to tear
+them apart. They\'ve seen the abyss, stared into the maw of cosmic
+horror, and emerged, not unscathed, but unbroken.
+
+This novella, my friends, is the ultimate literary gut-punch. It\'s a
+bittersweet ending that doesn\'t offer easy answers or saccharine
+resolutions. It\'s a reflection of life itself, messy and complicated,
+but filled with moments of profound beauty and hard-won peace. It\'s a
+reminder that even in a gearpunk hellscape, hope can flicker, love can
+endure, and redemption, though never perfect, is always possible. What a
+goddamned journey, and what a fucking testament to the human spirit.
+This is how you end a story, you magnificent bastards.
+
+\`\`\`
+ something deeper,
 something forged in the crucible of trauma and sacrifice. Their love is
 a broken tone, imperfect yet profoundly beautiful, a testament to the
 enduring power of connection in a world that tried its damnedest to tear

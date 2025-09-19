@@ -1,3 +1,7 @@
+---
+tags: ['chapter_11_the_serpents_coil', 'novella_2.3_the_serpents_coil', 'saga_outline']
+---
+
 # Chapter 11: The Unfolding of The Serpent's Coil (Part 11/15)
 
 **Novella:** The Serpent's Coil

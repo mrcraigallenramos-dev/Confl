@@ -1,3 +1,7 @@
+---
+tags: ['chapter_13_hollowgate_opens_torens_betrayal', 'novella_5.5_hollowgate_opens_torens_betrayal', 'saga_outline', 'series_5_the_hollowing___the_unreliable_truth']
+---
+
 # Chapter 13: The Unfolding of Hollowgate Opens (Toren's Betrayal) (Part 13/15)
 
 **Novella:** Hollowgate Opens (Toren's Betrayal)

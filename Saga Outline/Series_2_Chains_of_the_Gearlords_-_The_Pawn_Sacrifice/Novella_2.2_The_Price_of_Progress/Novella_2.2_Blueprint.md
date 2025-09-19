@@ -1,3 +1,7 @@
+---
+tags: ['novella_2.2_blueprint', 'novella_2.2_the_price_of_progress', 'saga_outline']
+---
+
 # The Price of Progress
 
 **Series:** Chains of the Gearlords - The Pawn Sacrifice

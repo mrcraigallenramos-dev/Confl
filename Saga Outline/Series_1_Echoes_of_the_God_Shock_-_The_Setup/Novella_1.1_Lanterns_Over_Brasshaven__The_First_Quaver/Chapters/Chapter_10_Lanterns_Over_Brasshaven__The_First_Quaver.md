@@ -1,3 +1,7 @@
+---
+tags: ['chapter_10_lanterns_over_brasshaven__the_first_quaver', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Chapter 10: The Nexus"s Unstable Heart
 
 **Novella:** Lanterns Over Brasshaven / The First Quaver

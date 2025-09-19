@@ -1,3 +1,7 @@
+---
+tags: ['chapter_10_the_levers_weight__the_hollowing_gate', 'novella_5.4_the_levers_weight__the_hollowing_gate', 'saga_outline', 'series_5_the_hollowing___the_unreliable_truth']
+---
+
 # Chapter 10: The Unfolding of The Lever's Weight / The Hollowing Gate (Part 10/15)
 
 **Novella:** The Lever's Weight / The Hollowing Gate

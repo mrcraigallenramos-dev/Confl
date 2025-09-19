@@ -1,3 +1,7 @@
+---
+tags: ['lore', 'seed_map']
+---
+
 # Seed Map
 - [[Jhace]]: Brass gear charm with prime engraving (dependency).
 - [[Nyra]]: Phrase note 'Keep the promise, keep the stitch'.

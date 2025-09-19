@@ -1,3 +1,7 @@
+---
+tags: ['chapter_8_supply_line_calixs_betrayal', 'novella_4.5_supply_line_calixs_betrayal', 'saga_outline', 'series_4_the_starving_gears___the_cost_of_efficiency']
+---
+
 # Chapter 8: The Unfolding of Supply Line (Calix's Betrayal) (Part 8/15)
 
 **Novella:** Supply Line (Calix's Betrayal)

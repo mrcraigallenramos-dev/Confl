@@ -1,3 +1,7 @@
+---
+tags: ['novella_2.5_blueprint', 'novella_2.5_the_first_betrayal_alaras_betrayal', 'saga_outline']
+---
+
 # The First Betrayal (Alara's Betrayal)
 
 **Series:** Chains of the Gearlords - The Pawn Sacrifice

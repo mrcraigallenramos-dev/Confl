@@ -1,3 +1,7 @@
+---
+tags: ['theconfluencechronicles_revisedstorybible_amasterclassinstrategicstorytelling']
+---
+
 # How to Access Shared Link on Manus Platform - Manus
 
 Thinking process
@@ -175,4 +179,6 @@ TheConfluenceChronicles\_RevisedStoryBible-AMasterclassinStrategicStorytelling.m
         *   **Mortal Mask:** Salee is a compassionate healer who creates a hive-mind cult. She preaches that peace is found in dissolving the self into the whole.
             *   **Unifieds:** A hive-mind cult where individuals speak in unison and share everything. They believe friction arises from individuality.
             *   **Glass Mothers & Choir Weavers:** Women who synchronise newborns’ b...3125 bytes truncated...
+
+hoir Weavers:** Women who synchronise newborns’ b...3125 bytes truncated...
 

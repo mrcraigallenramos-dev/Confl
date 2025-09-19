@@ -1,3 +1,7 @@
+---
+tags: ['chapter_8_the_rust_edict', 'novella_1.4_the_rust_edict', 'saga_outline']
+---
+
 # Chapter 8: The Unfolding of The Rust Edict (Part 8/15)
 
 **Novella:** The Rust Edict

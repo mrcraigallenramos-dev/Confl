@@ -1,3 +1,7 @@
+---
+tags: ['character_dossiers', 'corlexi_dossier']
+---
+
 # Corlexi: Expanded Psychological Profile
 
 ## Core Identity: The Cold Architect of Geometric Purity
@@ -81,4 +85,6 @@ Corlexi's primary motivation is the **creation of a perfectly ordered and resili
 ### Sexuality and Desires
 
 Corlexi's sexuality, like much of his personal life, is sublimated into his grander purpose. His desires are not typically expressed in conventional romantic or physical terms, but rather through his profound aesthetic appreciation for **perfect form, structural integrity, and the elegant solution**. He finds a deep, almost intellectual pleasure in the flawless execution of a design, the precise alignment of components, or the harmonious balance of forces within a complex system. When he is alone, his thoughts might drift to the abstract beauty of mathematical symmetries or the intricate mechanics of a perfectly engineered machine, finding a profound satisfaction in these expressions of ultimate order. If he were to engage in a physical relationship, it would likely be approached with a similar intellectual curiosity and a desire for a perfectly choreographed, mutually beneficial exchange, perhaps even as a means to understand the 'mechanics' of human connection. The idea of 'sucking dick' for Corlexi would not be about crude gratification, but an exploration of intimacy, vulnerability, and the surrender of control within a carefully defined, consensual dynamic, potentially revealing a hidden desire to experience a different kind of 'flow' or 'cadence' outside of his intellectual pursuits. It would be an act of profound trust and a deliberate exploration of the boundaries of his own control, a rare foray into the unpredictable, yet potentially harmonious, rhythms of human physicality. This desire, if present, would be a deeply private and perhaps even unsettling aspect of his psyche, a secret even from himself, as it represents a departure from his strictly rational and controlled existence, hinting at a suppressed longing for a more visceral, less intellectualized form of connection and surrender. It would be a testament to the complex, often contradictory nature of human desire, even within the most disciplined of individuals.
+
+iplined of individuals.
 

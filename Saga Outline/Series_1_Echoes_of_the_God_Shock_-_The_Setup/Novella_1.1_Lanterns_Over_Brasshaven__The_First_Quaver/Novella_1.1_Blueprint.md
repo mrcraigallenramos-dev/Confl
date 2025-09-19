@@ -1,3 +1,7 @@
+---
+tags: ['novella_1.1_blueprint', 'novella_1.1_lanterns_over_brasshaven__the_first_quaver', 'saga_outline']
+---
+
 # Lanterns Over Brasshaven / The First Quaver
 
 **Series:** Echoes of the God Shock - The Setup

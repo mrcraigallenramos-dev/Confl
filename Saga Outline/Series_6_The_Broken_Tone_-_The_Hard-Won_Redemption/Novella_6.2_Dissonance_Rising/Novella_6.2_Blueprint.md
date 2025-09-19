@@ -1,3 +1,7 @@
+---
+tags: ['novella_6.2_blueprint', 'novella_6.2_dissonance_rising', 'saga_outline', 'series_6_the_broken_tone___the_hard_won_redemption']
+---
+
 # Dissonance Rising
 
 **Series:** The Broken Tone - The Hard-Won Redemption

@@ -1,3 +1,7 @@
+---
+tags: ['chapter_2_the_gilded_cage', 'novella_1.3_the_gilded_cage', 'saga_outline']
+---
+
 # Chapter 2: The Unfolding of The Gilded Cage (Part 2/15)
 
 **Novella:** The Gilded Cage

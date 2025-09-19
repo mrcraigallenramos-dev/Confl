@@ -1,3 +1,7 @@
+---
+tags: ['development_tracker']
+---
+
 # Character Development Tracker (Phase 2)
 
 This document tracks the progress of character development for Phase 2: Character Incarnation.

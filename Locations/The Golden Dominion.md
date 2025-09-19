@@ -1,3 +1,7 @@
+---
+tags: ['locations', 'the_golden_dominion']
+---
+
 
 ---
 Entry: "The Golden Dominion"

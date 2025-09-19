@@ -6,6 +6,9 @@ Tags: [Lore, Magic, Vitaflow, Resonance, Soul_Energy]
 Status: "Canonical"
 Related: [Soul_Resonance, Tether_IDs, Fathombreak, Divine_Principles]
 ---
+tags: ['magic', 'vitaflow']
+---
+
 
 # Vitaflow: The Laws of Soul Energy
 
@@ -32,3 +35,4 @@ Vitaflow is the raw energy of soul and emotion that powers the magic of Soul Res
 - **Emotional** – Numbness, zealotry, haunting trauma.
 - **Social** – Tethers audited and punished if abused.
 - **Spiritual** – Divine principles shape and consume the user.
+

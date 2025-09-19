@@ -6,6 +6,9 @@ Tags: [Lore, Location, World, Aethelgard, Aethros]
 Status: "Canonical"
 Related: [The_Golden_Dominion, The_Stellar_Reaches, The_Shadow_Marches, The_Iron_Republics, The_Healing_Gardens, The_Twilight_Courts, The_Wild_Resonance, World_Spine]
 ---
+tags: ['aethelgard', 'locations']
+---
+
 
 # Aethelgard / Aethros
 

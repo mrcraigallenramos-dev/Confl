@@ -1,3 +1,7 @@
+---
+tags: ['chapter_2_the_first_betrayal_alaras_betrayal', 'novella_2.5_the_first_betrayal_alaras_betrayal', 'saga_outline']
+---
+
 # Chapter 2: The Unfolding of The First Betrayal (Alara's Betrayal) (Part 2/15)
 
 **Novella:** The First Betrayal (Alara's Betrayal)

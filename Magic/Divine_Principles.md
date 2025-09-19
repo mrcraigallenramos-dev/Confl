@@ -6,6 +6,9 @@ Tags: [Lore, Magic, Divine_Principles, Gods, Resonance]
 Status: "Canonical"
 Related: [Soul_Resonance, Vitaflow, Fathombreak, Xilcore, Leesa, Blemo, Seeri]
 ---
+tags: ['divine_principles', 'magic']
+---
+
 
 # The Four Divine Principles
 

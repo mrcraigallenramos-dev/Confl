@@ -1,3 +1,7 @@
+---
+tags: ['chapter_8_the_first_spark', 'novella_1.5_the_first_spark', 'saga_outline']
+---
+
 # Chapter 8: The Unfolding of The First Spark (Part 8/15)
 
 **Novella:** The First Spark

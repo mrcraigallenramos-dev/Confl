@@ -1,3 +1,7 @@
+---
+tags: ['chapter_5_whispers_in_the_lattice__lattice_of_lies', 'novella_1.2_whispers_in_the_lattice__lattice_of_lies', 'saga_outline']
+---
+
 # Chapter 5: The Unfolding of Whispers in the Lattice / Lattice of Lies (Part 5/15)
 
 **Novella:** Whispers in the Lattice / Lattice of Lies

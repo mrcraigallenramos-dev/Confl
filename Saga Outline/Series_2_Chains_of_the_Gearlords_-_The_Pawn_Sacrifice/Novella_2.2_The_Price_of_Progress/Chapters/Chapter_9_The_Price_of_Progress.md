@@ -1,3 +1,7 @@
+---
+tags: ['chapter_9_the_price_of_progress', 'novella_2.2_the_price_of_progress', 'saga_outline']
+---
+
 # Chapter 9: The Unfolding of The Price of Progress (Part 9/15)
 
 **Novella:** The Price of Progress

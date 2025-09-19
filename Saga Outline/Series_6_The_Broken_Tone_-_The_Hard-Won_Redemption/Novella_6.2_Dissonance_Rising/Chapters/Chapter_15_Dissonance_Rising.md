@@ -1,3 +1,7 @@
+---
+tags: ['chapter_15_dissonance_rising', 'novella_6.2_dissonance_rising', 'saga_outline', 'series_6_the_broken_tone___the_hard_won_redemption']
+---
+
 # Chapter 15: The Unfolding of Dissonance Rising (Part 15/15)
 
 **Novella:** Dissonance Rising

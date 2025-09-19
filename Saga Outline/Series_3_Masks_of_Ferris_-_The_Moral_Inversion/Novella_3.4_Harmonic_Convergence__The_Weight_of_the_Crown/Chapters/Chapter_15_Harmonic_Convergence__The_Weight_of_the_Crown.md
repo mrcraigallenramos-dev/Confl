@@ -1,3 +1,7 @@
+---
+tags: ['chapter_15_harmonic_convergence__the_weight_of_the_crown', 'novella_3.4_harmonic_convergence__the_weight_of_the_crown', 'saga_outline', 'series_3_masks_of_ferris___the_moral_inversion']
+---
+
 # Chapter 15: The Unfolding of Harmonic Convergence / The Weight of the Crown (Part 15/15)
 
 **Novella:** Harmonic Convergence / The Weight of the Crown

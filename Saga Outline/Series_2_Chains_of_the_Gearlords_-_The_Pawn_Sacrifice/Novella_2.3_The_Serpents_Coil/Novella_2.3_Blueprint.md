@@ -1,3 +1,7 @@
+---
+tags: ['novella_2.3_blueprint', 'novella_2.3_the_serpents_coil', 'saga_outline']
+---
+
 # The Serpent's Coil
 
 **Series:** Chains of the Gearlords - The Pawn Sacrifice

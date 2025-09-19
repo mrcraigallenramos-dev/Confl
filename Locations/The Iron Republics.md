@@ -1,3 +1,7 @@
+---
+tags: ['locations', 'the_iron_republics']
+---
+
 
 ---
 Entry: "The Iron Republics"

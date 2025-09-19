@@ -1,3 +1,7 @@
+---
+tags: ['magic']
+---
+
 # Magic Index
 
 This dashboard lists all magic-related lore entries.

@@ -1,3 +1,7 @@
+---
+tags: ['chapter_5_gearwrights_gambit__the_serpents_kiss', 'novella_3.3_gearwrights_gambit__the_serpents_kiss', 'saga_outline', 'series_3_masks_of_ferris___the_moral_inversion']
+---
+
 # Chapter 5: The Unfolding of Gearwright's Gambit / The Serpent's Kiss (Part 5/15)
 
 **Novella:** Gearwright's Gambit / The Serpent's Kiss

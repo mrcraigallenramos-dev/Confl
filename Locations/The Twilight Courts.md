@@ -1,3 +1,7 @@
+---
+tags: ['locations', 'the_twilight_courts']
+---
+
 
 ---
 Entry: "The Twilight Courts"

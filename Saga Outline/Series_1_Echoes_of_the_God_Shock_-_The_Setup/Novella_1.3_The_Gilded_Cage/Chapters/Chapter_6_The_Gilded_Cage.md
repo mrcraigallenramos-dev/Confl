@@ -1,3 +1,7 @@
+---
+tags: ['chapter_6_the_gilded_cage', 'novella_1.3_the_gilded_cage', 'saga_outline']
+---
+
 # Chapter 6: The Unfolding of The Gilded Cage (Part 6/15)
 
 **Novella:** The Gilded Cage

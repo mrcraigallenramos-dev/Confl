@@ -6,6 +6,9 @@ Tags: [Lore, Magic, Resonance, Fathombreak, PostRupture]
 Status: "Canonical"
 Related: [Soul_Resonance, Vitaflow, Divine_Principles, Resonance_Forms]
 ---
+tags: ['fathombreak', 'magic']
+---
+
 
 # Fathombreak and Post-Rupture Resonance
 

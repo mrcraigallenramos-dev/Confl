@@ -1,3 +1,7 @@
+---
+tags: ['chapter_2_the_broken_tone', 'novella_6.5_the_broken_tone', 'saga_outline', 'series_6_the_broken_tone___the_hard_won_redemption']
+---
+
 # Chapter 2: The Unfolding of The Broken Tone (Part 2/15)
 
 **Novella:** The Broken Tone

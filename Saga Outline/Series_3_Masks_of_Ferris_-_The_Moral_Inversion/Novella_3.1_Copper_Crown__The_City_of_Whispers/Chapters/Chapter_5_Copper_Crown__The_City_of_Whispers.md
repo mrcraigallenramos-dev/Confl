@@ -1,3 +1,7 @@
+---
+tags: ['chapter_5_copper_crown__the_city_of_whispers', 'novella_3.1_copper_crown__the_city_of_whispers', 'saga_outline', 'series_3_masks_of_ferris___the_moral_inversion']
+---
+
 # Chapter 5: The Unfolding of Copper Crown / The City of Whispers (Part 5/15)
 
 **Novella:** Copper Crown / The City of Whispers

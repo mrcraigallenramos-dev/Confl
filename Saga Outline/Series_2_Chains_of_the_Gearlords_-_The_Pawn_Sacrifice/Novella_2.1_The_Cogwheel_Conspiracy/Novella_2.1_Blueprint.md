@@ -1,3 +1,7 @@
+---
+tags: ['novella_2.1_blueprint', 'novella_2.1_the_cogwheel_conspiracy', 'saga_outline']
+---
+
 # The Cogwheel Conspiracy
 
 **Series:** Chains of the Gearlords - The Pawn Sacrifice
